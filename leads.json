@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21 (contacts triple-checked: 8 departures actioned, 9 titles updated, 3 research_gaps closed)",
+  "updated": "2026-05-21 (final audit pass: Henry Costa URL + Magrann title sharpened)",
   "leads": [
     {
       "id": "north-italia",
@@ -617,10 +617,10 @@
         },
         {
           "name": "Christine Magrann",
-          "title": "President & COO, FB Society (parent)",
+          "title": "President & COO, Whiskey Cake + Mexican Sugar (FB Society concepts)",
           "company": "FB Society",
-          "source_url": "https://www.fsrmagazine.com/people/fb-society-names-christine-magrann-president-coo",
-          "source_note": "VERIFIED 2026-05-21: Named President & COO of FB Society March 31, 2025. Operating chain of command above Jeff Carcara (Sixty Vines CEO)."
+          "source_url": "https://www.restaurantnews.com/fb-society-names-christine-magrann-president-and-coo-033125/",
+          "source_note": "VERIFIED 2026-05-21: Named President & COO of Whiskey Cake and Mexican Sugar specifically (March 31, 2025) \u2014 these are two of FB Society's concepts, parallel siblings to Sixty Vines. Not corporate-level POC for FB Society but relevant context. Ex-Makeready (hotel/restaurant brand)."
         }
       ],
       "typical_suppliers": "Project-by-project AOR/GC selection. Front Burner uses regional architects (Civitarese Morgan TX, Gensler TN). Liles Construction was GC for Nashville (PM Brenden Eaton, Super Brad Long). No centralized FF&E procurement firm identified \u2014 likely direct buyer with consultant design support.",
@@ -1141,8 +1141,8 @@
           "name": "Henry Costa",
           "title": "Head of West Coast Real Estate",
           "company": "Joe & The Juice",
-          "source_url": "https://www.linkedin.com/in/markjsmith212/",
-          "source_note": "VERIFIED 2026-05-21: Supporting US real-estate role; West Coast (LA). Pairs with Mark Smith on US 100-store push."
+          "source_url": "https://www.linkedin.com/in/hoyacosta/",
+          "source_note": "VERIFIED 2026-05-21: Head of West Coast Real Estate at Joe & The Juice, based LA. Pairs with Mark Smith (Head of US Retail Development) on the US 100-store push. Was at Fetch, Getir, Prospect Rock Partners prior."
         }
       ],
       "typical_suppliers": [
