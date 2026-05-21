@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>HI Leads — Maggiano's Framework</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; }
+  .tier-Aplus { background: #ecfdf5; color: #047857; border-color: #10b981; }
+  .tier-A { background: #f0fdf4; color: #15803d; border-color: #22c55e; }
+  .tier-Bplus { background: #fefce8; color: #a16207; border-color: #eab308; }
+  .tier-B { background: #fef9c3; color: #854d0e; border-color: #ca8a04; }
+  .tier-C { background: #fef2f2; color: #b91c1c; border-color: #ef4444; }
+  details[open] summary .chev { transform: rotate(90deg); }
+  .chev { transition: transform 0.15s ease; display: inline-block; }
+</style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen">
+
+<div x-data="leadApp()" x-init="load()" class="max-w-6xl mx-auto p-6">
+
+  <header class="mb-6">
+    <h1 class="text-3xl font-bold tracking-tight">HI Leads — Maggiano's Framework</h1>
+    <p class="text-slate-500 mt-1">Triage list. <span x-text="updated"></span> · <span x-text="filtered.length"></span> of <span x-text="leads.length"></span> shown</p>
+  </header>
+
+  <div class="bg-white border border-slate-200 rounded-lg p-4 mb-6 flex flex-wrap gap-3 items-center">
+    <input x-model="search" placeholder="search name, parent, notes..." class="flex-1 min-w-[200px] px-3 py-2 border border-slate-300 rounded-md text-sm" />
+
+    <select x-model="filterTier" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="">All tiers</option>
+      <option value="A+">A+ only</option>
+      <option value="A">A only</option>
+      <option value="B+">B+ only</option>
+      <option value="B">B only</option>
+      <option value="C">C only</option>
+    </select>
+
+    <select x-model="filterCategory" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="">All categories</option>
+      <option value="Original 7">Original 7</option>
+      <option value="New top adds">New top adds</option>
+    </select>
+
+    <select x-model="filterStatus" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="">All statuses</option>
+      <option value="cold">cold</option>
+      <option value="drafting">drafting</option>
+      <option value="sent">sent</option>
+      <option value="waiting">waiting</option>
+      <option value="active">active</option>
+      <option value="watch">watch</option>
+      <option value="killed">killed</option>
+    </select>
+
+    <select x-model="sortBy" class="px-3 py-2 border border-slate-300 rounded-md text-sm">
+      <option value="tier">Sort by tier</option>
+      <option value="locations">Sort by locations</option>
+      <option value="name">Sort by name</option>
+    </select>
+  </div>
+
+  <div class="space-y-3">
+    <template x-for="lead in filtered" :key="lead.id">
+      <details class="bg-white border border-slate-200 rounded-lg group">
+        <summary class="cursor-pointer p-4 flex items-start gap-4 hover:bg-slate-50 select-none">
+          <span class="chev text-slate-400 mt-1">▸</span>
+
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center gap-2 flex-wrap">
+              <h2 class="font-semibold text-lg" x-text="lead.name"></h2>
+              <span class="text-xs px-2 py-0.5 rounded border"
+                    :class="'tier-' + lead.tier.replace('+', 'plus')"
+                    x-text="'Tier ' + lead.tier"></span>
+              <span class="text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-600" x-text="lead.category"></span>
+              <span class="text-xs px-2 py-0.5 rounded bg-blue-50 text-blue-700" x-text="lead.status"></span>
+            </div>
+            <p class="text-sm text-slate-500 mt-1">
+              <span x-text="lead.parent"></span> · <span x-text="lead.locations + ' locations'"></span>
+            </p>
+            <p class="text-sm text-slate-700 mt-2" x-text="lead.why_fit"></p>
+          </div>
+        </summary>
+
+        <div class="px-4 pb-4 pt-2 border-t border-slate-100 space-y-3 text-sm">
+          <div>
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Expansion</div>
+            <p x-text="lead.expansion"></p>
+          </div>
+          <div>
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Kill risk</div>
+            <p x-text="lead.kill_risk"></p>
+          </div>
+          <div>
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Notes</div>
+            <p x-text="lead.notes"></p>
+          </div>
+          <div x-show="lead.contact">
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Contact</div>
+            <p x-text="lead.contact"></p>
+          </div>
+          <div x-show="lead.outreach_draft">
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Outreach draft</div>
+            <pre class="bg-slate-50 p-3 rounded text-xs whitespace-pre-wrap" x-text="lead.outreach_draft"></pre>
+          </div>
+        </div>
+      </details>
+    </template>
+  </div>
+
+  <footer class="mt-8 text-center text-xs text-slate-400">
+    Edit by updating leads.json in the repo. Status changes propagate after refresh.
+  </footer>
+</div>
+
+<script>
+function leadApp() {
+  return {
+    leads: [],
+    updated: '',
+    search: '',
+    filterTier: '',
+    filterCategory: '',
+    filterStatus: '',
+    sortBy: 'tier',
+    async load() {
+      const res = await fetch('leads.json?v=' + Date.now());
+      const data = await res.json();
+      this.leads = data.leads;
+      this.updated = 'Updated ' + data.updated;
+    },
+    get filtered() {
+      const tierOrder = { 'A+': 0, 'A': 1, 'B+': 2, 'B': 3, 'C': 4 };
+      let arr = this.leads.filter(l => {
+        if (this.filterTier && l.tier !== this.filterTier) return false;
+        if (this.filterCategory && l.category !== this.filterCategory) return false;
+        if (this.filterStatus && l.status !== this.filterStatus) return false;
+        if (this.search) {
+          const q = this.search.toLowerCase();
+          const hay = (l.name + ' ' + l.parent + ' ' + l.notes + ' ' + l.why_fit).toLowerCase();
+          if (!hay.includes(q)) return false;
+        }
+        return true;
+      });
+      arr.sort((a, b) => {
+        if (this.sortBy === 'tier') return tierOrder[a.tier] - tierOrder[b.tier];
+        if (this.sortBy === 'locations') return b.locations - a.locations;
+        return a.name.localeCompare(b.name);
+      });
+      return arr;
+    }
+  };
+}
+</script>
+
+</body>
+</html>
