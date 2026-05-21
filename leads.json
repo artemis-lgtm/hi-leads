@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21",
+  "updated": "2026-05-21 (research added: contacts, suppliers, refurb, expansion)",
   "leads": [
     {
       "id": "north-italia",
@@ -8,13 +8,47 @@
       "category": "Original 7",
       "tier": "A",
       "locations": 50,
-      "expansion": "Active — Cheesecake Factory funding aggressive growth",
-      "why_fit": "Wedge into Fox Restaurant Concepts (20-brand parent). Maggiano's sat under Brinker; North Italia sits under Cheesecake Factory — same shape.",
+      "expansion": "Active \u2014 Cheesecake Factory funding aggressive growth",
+      "why_fit": "Wedge into Fox Restaurant Concepts (20-brand parent). Maggiano's sat under Brinker; North Italia sits under Cheesecake Factory \u2014 same shape.",
       "kill_risk": "Procurement may be centralized at Cheesecake Factory HQ. Pitch the parent, not the brand.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Originally on Austin's list. Counsel said reframe as wedge into Fox Restaurant Concepts."
+      "notes": "Originally on Austin's list. Counsel said reframe as wedge into Fox Restaurant Concepts.",
+      "prime_contacts": [
+        {
+          "name": "Marji Aron",
+          "title": "Senior VP, Development, Design, Construction & Facilities",
+          "company": "Fox Restaurant Concepts (parent of North Italia, owned by Cheesecake Factory)",
+          "source_url": "https://www.linkedin.com/in/marji-aron-37a7ba93/",
+          "source_note": "LinkedIn profile + ZoomInfo confirm SVP role covering dev/design/construction/facilities at FRC HQ Phoenix. She is the single-point procurement decision-maker for FRC concepts (North Italia, Flower Child, The Henry, Culinary Dropout). ASU Design degree, came from Macerich. Most important contact in this lead by far."
+        },
+        {
+          "name": "Sam Fox",
+          "title": "Founder & CEO, Fox Restaurant Concepts",
+          "company": "Fox Restaurant Concepts / Cheesecake Factory Inc.",
+          "source_url": "https://www.restaurantbusinessonline.com/emerging-brands/how-sam-fox-went-college-dropout-one-countrys-most-successful-restaurateurs",
+          "source_note": "Famously design-obsessed restaurateur; Sam personally signs off on aesthetics across FRC concepts. Mention him only as design-philosophy context \u2014 Marji is the buyer."
+        },
+        {
+          "name": "Studio Murnane (firm)",
+          "title": "Brand, architecture, and interior design firm of record for North Italia",
+          "company": "Studio Murnane (Phoenix)",
+          "source_url": "https://studiomurnane.com/portfolio/north-italia",
+          "source_note": "Studio Murnane's portfolio page explicitly credits them with North Italia's brand refresh, architecture, and interior design \u2014 they set unified location standards. They are the designer-led specification channel to influence FF&E spec at the prototype level."
+        },
+        {
+          "name": "Victoria Salemme",
+          "title": "Development Administrator, Fox Restaurant Concepts",
+          "company": "Fox Restaurant Concepts",
+          "source_url": "https://www.zoominfo.com/p/Victoria-Salemme/13089150982",
+          "source_note": "Listed in ZoomInfo as Development Administrator at FRC; useful as administrative gatekeeper under Marji Aron for project coordination."
+        }
+      ],
+      "typical_suppliers": "Procurement is centralized at Fox Restaurant Concepts HQ in Phoenix under SVP Marji Aron (development/design/construction/facilities all roll up to her). Designer-led prototype: Studio Murnane (Phoenix) handles brand, architecture, and interiors for North Italia (per studiomurnane.com/portfolio/north-italia). General contractor relationships historically include Jokake Construction and MCI Builders in Arizona (both have True Food Kitchen \u2014 sister FRC brand \u2014 case studies showing the FRC GC stable). The model is owner-rep / direct: FRC corporate buys FF&E centrally and ships to GC; this is NOT a PE-consolidated platform despite Cheesecake Factory ownership \u2014 FRC operates with autonomy out of Phoenix. Sources: https://studiomurnane.com/portfolio/north-italia ; https://jokake.com/projects/true-food-kitchen/ .",
+      "refurb_profile": "North Italia's design language is warm modern Italian: hand-finished hardwood tabletops, leather and upholstered banquettes, mixed-material bar fronts (wood + tile + metal), woven/cane chair backs, and statement custom lighting. Each location is layered with local art (e.g., Walnut Creek and Katy locations feature commissioned local artist work \u2014 confirmed in https://contracosta.news/2026/03/25/north-italias-first-bay-area-restaurant-now-open-in-walnut-creek/ and https://myneighborhoodnews.com/north-italia-katy-opening-date-announced). FF&E categories where Higney International fits cleanly: solid-hardwood tabletops, custom banquettes, dining and bar chairs/stools, decorative millwork (host stands, wine displays, bar back). Materials skew hardwood (not laminate) and real leather/upholstery (not vinyl) given the upscale-casual positioning. Cheesecake Factory parent has called out construction cost headwinds publicly \u2014 refurbishment of the 39-unit base could be a re-spec opportunity if cost-equivalent.",
+      "expansion_intel": "Confirmed-in-build / not-yet-open units beyond standard pipeline: (1) Katy TX at LaCenterra at Cinco Ranch \u2014 $1.87M renovation, ~9,000 sq ft / 300 seats, construction started Nov 2025, scheduled open June 10, 2026 (https://myneighborhoodnews.com/north-italia-katy-opening-date-announced-what-the-summer-2026-launch-means-for-lacenterra-and-west-houston-dining ; https://communityimpact.com/houston/katy-fulshear/dining/2026/05/05/north-italia-slated-to-open-4th-greater-houston-location-in-la-centerra/). (2) Huntsville AL at Bridge Street Town Centre \u2014 taking over former Bravo! Italian space, no firm open date (https://www.rocketcitynow.com/article/news/local/north-italia-to-take-over-bridge-street-space-left-by-bravos-closure/525-c48cf51c-700b-49ac-8d19-4ff9a260ff82). (3) Walnut Creek CA opened March 2026 \u2014 first Bay Area location, signal of West-coast push (https://contracosta.news/2026/03/25/north-italias-first-bay-area-restaurant-now-open-in-walnut-creek/). Cheesecake Factory has publicly stated 20%/year unit growth target for North Italia \u2014 at 39 locations that's ~8 new builds/yr (https://www.nrn.com/fast-casual/the-cheesecake-factory-weighs-growth-for-both-north-italia-and-flower-child).",
+      "research_gap": "Could not verify specific FF&E vendors currently on the North Italia spec sheet \u2014 FRC does not publicly list vendors. Would need either (a) outreach via Marji Aron directly, or (b) outreach to Studio Murnane as designer-of-record to get spec-in at prototype level. Also no public Director of FF&E / Procurement role \u2014 that function sits inside Marji Aron's group at FRC."
     },
     {
       "id": "earls",
@@ -25,11 +59,45 @@
       "locations": 70,
       "expansion": "Nashville Yards opened Apr 2026. Boston Seaport West 2027. Hawaii in build phase.",
       "why_fit": "Independent ownership, US expansion live, polished-casual aesthetic. Strongest single-brand fit on the list.",
-      "kill_risk": "Canadian HQ — US procurement may run through a designer/GC relationship. Find that designer first.",
+      "kill_risk": "Canadian HQ \u2014 US procurement may run through a designer/GC relationship. Find that designer first.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Boston Seaport West 2027 is the live FF&E window — Q2-Q3 2026 selection."
+      "notes": "Boston Seaport West 2027 is the live FF&E window \u2014 Q2-Q3 2026 selection.",
+      "prime_contacts": [
+        {
+          "name": "Jennifer Hoffbeck",
+          "title": "VP of Design (formerly Lead Designer)",
+          "company": "Earls Kitchen + Bar",
+          "source_url": "https://www.linkedin.com/posts/jennifer-hoffbeck-b789143b_earls-sherway-is-now-open-activity-6856670961979273216-xBUu",
+          "source_note": "LinkedIn posts confirm she leads design across Earls locations (Sherway, Brentwood, US expansion). Was Lead Designer on Miami Dadeland buildout (rd+d magazine 2014) and has progressed to VP of Design. She is the design-side buyer/spec authority for FF&E."
+        },
+        {
+          "name": "Mo Jessa",
+          "title": "President, Earls Restaurants",
+          "company": "Earls Kitchen + Bar (Fuller Family ownership)",
+          "source_url": "https://ca.linkedin.com/in/mo-jessa-9879127",
+          "source_note": "President of the parent \u2014 top operational decision-maker under Fuller family. LinkedIn-verified."
+        },
+        {
+          "name": "Mark Hladik",
+          "title": "President, US Operations (Earls Kitchen + Bar)",
+          "company": "Earls Kitchen + Bar",
+          "source_url": "https://www.pembroke.com/news/earls-kitchen-bar-to-open-new-location-at-bostons-commonwealth-pier-in-2027/",
+          "source_note": "Pembroke landlord press release on Boston Seaport quotes Hladik as President of Earls; he is the public-facing executive on US expansion. 23-year Earls veteran, has personally opened multiple US locations."
+        },
+        {
+          "name": "Meghan Hansen",
+          "title": "Chief Financial Officer, Earls Restaurants",
+          "company": "Earls Restaurants Ltd. (Vancouver HQ)",
+          "source_url": "https://craft.co/earls-restaurants-ltd/executives",
+          "source_note": "CFO \u2014 capex sign-off on US buildouts ultimately flows through her office in Vancouver."
+        }
+      ],
+      "typical_suppliers": "Family-owned (Fuller family), NOT PE-consolidated \u2014 procurement runs out of Vancouver corporate. Design is in-house under Jennifer Hoffbeck (VP Design); construction was historically VP Construction & Facilities Sumeet Mittal (who has since moved to Academy Sports + Outdoors \u2014 meaning that seat may be open or recently re-filled \u2014 verify before pitching). General contractor on US new builds is project-specific: R.C. Mathews Contractor built the Nashville Yards location (https://rcmathews.com/news/grand-opening-of-earls-kitchen-bar-at-nashville-yards/). Earls' design vocabulary is heavily custom \u2014 Nashville features custom light fixtures, custom seating, and a sweeping wood-arch bar; Miami Dadeland was published in rd+d magazine (https://rddmag.com/design/227-web-exclusive-new-earls-kitchen-bar-rocks-miami-s-dadeland-mall) and Hospitality Design (https://hospitalitydesign.com/projects/f-b/earls-kitchen-bar/). Channel is designer-led-in-house: Hoffbeck specs, then sources via approved vendor list \u2014 meaning Higney International needs to land on her short-list. 300 Main location is also a published case study (https://www.reminetwork.com/articles/300-main-earls-kitchen-bar/).",
+      "refurb_profile": "Earls is one of the most design-rich targets in the Maggiano's framework. Recurring elements across recent builds: marble- and wood-topped tables, upholstered AND leather chair mix, custom banquettes with jewel-toned fabrics, large architectural wood elements (Nashville's wood arches over bar), mosaic tile floors, deep paneling (Seaport will feature 'ivy-green paneling'). They do NOT use laminate or vinyl in core dining \u2014 they're a real-wood, real-leather operator. Higney's hardwood tabletop + banquette + chair mix maps almost exactly to their spec. Sources: https://www.pembroke.com/news/earls-kitchen-bar-to-open-new-location-at-bostons-commonwealth-pier-in-2027/ ; https://nashvilleguru.com/193756/a-look-inside-earls-nashville . Refurb cycle is unclear but their oldest US locations (Assembly Row 2014, Pru Center 2017) are now 9-12 years old and likely entering refresh territory.",
+      "expansion_intel": "Beyond Boston Seaport 2027 (already in your lead notes \u2014 confirmed at 157 Seaport Blvd in Seaport West, 9,800 sq ft / three-season patio, Pembroke is landlord, https://www.pembroke.com/news/earls-kitchen-bar-to-open-new-location-at-bostons-commonwealth-pier-in-2027/): Nashville Yards opened April 16, 2026 \u2014 260 seats, just opened so unlikely to be in your radar yet (https://www.visitmusiccity.com/media/press-release/2026/earls-kitchen-bar-to-open-april-16-nashville-yards). Earls has publicly stated 'further expansion across North America' but specific filed leases beyond Boston Seaport were not surfacing in news. Sister brand 'Birdies Eats & Drinks' is a new banner being developed by Earls (https://www.biv.com/news/hospitality-marketing-tourism/earls-launch-new-restaurant-banner-birdies-eats-drinks-8270403) \u2014 that's a potential separate FF&E opportunity worth scoping. Total Earls footprint is 68 locations Canada+US.",
+      "research_gap": "Could not confirm the current VP of Construction & Facilities by name \u2014 the prior VP (Sumeet Mittal) appears to have moved to Academy Sports + Outdoors per ZoomInfo, but no public announcement of his replacement at Earls. Worth a direct LinkedIn search or call to Vancouver HQ before pitching. Also could not find specific named FF&E vendors on Earls' current spec sheet \u2014 designer-led in-house procurement means access goes through Jennifer Hoffbeck."
     },
     {
       "id": "bartaco",
@@ -44,7 +112,41 @@
       "status": "cold",
       "contact": "Mendal direct in HubSpot (warmest path per 5/15 note)",
       "outreach_draft": "",
-      "notes": "Counsel said drop on aesthetic + PE-owner shape. Austin asked to keep — leaving in at tier C."
+      "notes": "Counsel said drop on aesthetic + PE-owner shape. Austin asked to keep \u2014 leaving in at tier C.",
+      "prime_contacts": [
+        {
+          "name": "Anthony Valletta",
+          "title": "CEO + President, bartaco",
+          "company": "bartaco (L Catterton portfolio)",
+          "source_url": "https://www.nrn.com/casual-dining/bartaco-names-anthony-valletta-ceo-scott-lawton-transitions-to-chair",
+          "source_note": "NRN-confirmed: promoted from President to CEO after Scott Lawton transitioned to Chairman. 20+ years hospitality (Mina Group, Del Frisco's, Darden). Capex sign-off authority."
+        },
+        {
+          "name": "Scott Lawton",
+          "title": "Co-founder & Chairman",
+          "company": "bartaco",
+          "source_url": "https://www.thehospitalityhangout.com/scott-lawton-building-bartaco-insights/",
+          "source_note": "Co-founder, transitioned to Chair under L Catterton ownership. Still public-facing on growth and brand. Speaks at RestaurantSpaces / MURTEC."
+        },
+        {
+          "name": "Anna Greenberg",
+          "title": "Vice President (Operations / Brand)",
+          "company": "bartaco",
+          "source_url": "https://www.zoominfo.com/p/Anna-Greenberg/3207766282",
+          "source_note": "Long-tenured (13+ years) VP at bartaco, internally grown from bartender. Featured in Restaurant Business Power 20 (https://www.restaurantbusinessonline.com/power-20-2020/anna-greenberg). Operational decision-maker \u2014 relevant for refurb cycle planning."
+        },
+        {
+          "name": "Architecture, Incorporated (firm)",
+          "title": "Architect of record for multiple bartaco locations (Mosaic, Reston, King of Prussia)",
+          "company": "Architecture, Incorporated (Reston, VA)",
+          "source_url": "https://www.archinc.com/portfolio/bartaco",
+          "source_note": "Their portfolio page explicitly credits them with multiple bartaco locations. 65-person firm in Reston. Won ABC Honorable Mention 2019 for bartaco restaurant interior build-out. Designer-led spec channel for Northeast/Mid-Atlantic bartaco units \u2014 likely on the One Loudoun build given geographic proximity."
+        }
+      ],
+      "typical_suppliers": "L Catterton acquired bartaco (~$650M deal bundled with Barcelona Wine Bar) \u2014 so bartaco is now part of a PE-consolidated hospitality platform. However, bartaco operates with its own corporate team (not shared services with Barcelona Wine Bar at the FF&E level yet, as far as public reporting shows). Architect-of-record is project-specific: Architecture, Incorporated (Reston VA) has done at least 3 bartaco builds in the Mid-Atlantic. General contractor on Arlington bartaco was Encore Construction (https://www.encoreconstruction.net/just-completed-bartaco-restaurant-in-arlington-va/). Procurement channel is designer-led with corporate (Valletta/Greenberg) approval \u2014 there is a documented internal Director of Construction role at bartaco corporate (~$125K salary per public job-board data) but no named individual confirmed publicly. The L Catterton platform consolidation thesis suggests an opportunity to land bartaco AND Barcelona AND Uncle Julio's via a single platform-level conversation if Higney can reach L Catterton's operating partners on the deal.",
+      "refurb_profile": "bartaco's design language is coastal/beach-shack-elevated: white-washed walls, hanging baskets, polished concrete floors, travel-inspired artwork, generous outdoor patios, large bars (source: https://www.archinc.com/portfolio/bartaco). Their tabletop game is the highest-fit category for Higney \u2014 bartaco uses solid wood (often weathered/distressed-finish) tabletops, light-finish wood chairs (often woven seat), and minimal banquette work (they lean toward bar-and-table rather than booth-heavy). Outdoor furniture is a meaningful category (large patios at every location). Materials: hardwood over laminate, but with weathered/coastal finishes rather than the dark-stained polish of Earls. Refurb cycle: bartaco grew from 0 to 15+ units in 7 years under Lawton's first run; oldest units are now ~10 years old and entering refresh window under L Catterton's expansion push.",
+      "expansion_intel": "Beyond One Loudoun (in your notes, exterior shell complete in early 2026, ~5,200 sq ft, 168 seats, interior fixturing now \u2014 https://theburn.com/2024/12/03/new-details-on-the-bartaco-restaurant-coming-to-loudoun/ ; https://theburn.com/2025/06/27/new-retail-buildings-at-one-loudoun-going-up-quickly/): (1) North Bethesda MD at Pike & Rose \u2014 opened Feb 2026, first MD location, at 950 Rose Ave taking over former NADA space (https://www.baltimoresun.com/2026/02/17/bartaco-north-bethesda/ ; https://mocoshow.com/2026/01/15/marylands-first-bartaco-now-open/). (2) Washington DC at 1025 5th St NW (Mount Vernon Triangle, former Busboys & Poets) \u2014 permit-stage, opening TBA (https://www.dfmdevelopment.com/news/permit-expediting/bartaco-is-coming-to-dc/). (3) Chicago \u2014 building permit issued for N. Damen Ave (https://whatnow.com/chicago/restaurants/building-permit-issued-for-bartaco/). (4) Jacksonville FL \u2014 Riverside location, permit issued July 2024 to replace Black Sheep (https://www.jaxdailyrecord.com/news/2024/jul/29/bartaco-permit-issued-to-replace-black-sheep-in-riverside/). That is 4+ confirmed-in-pipeline US openings beyond One Loudoun.",
+      "research_gap": "Could not name the current Director of Construction or Director of Design at bartaco corporate \u2014 the role exists (Glassdoor / job-board posts confirm) but the individual is not surfaced publicly. Recommend LinkedIn search 'bartaco construction' / 'bartaco design' or reaching Anna Greenberg or Architecture Incorporated directly for an intro. L Catterton operating partner overseeing the bartaco/Barcelona/Uncle Julio's cluster also not identified publicly \u2014 worth research if pursuing platform sale."
     },
     {
       "id": "true-food-kitchen",
@@ -59,7 +161,41 @@
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Counsel said drop. Austin asked to keep — tier C."
+      "notes": "Counsel said drop. Austin asked to keep \u2014 tier C.",
+      "prime_contacts": [
+        {
+          "name": "Ryan Slemons",
+          "title": "Chief Development Officer (starting May 4, 2026)",
+          "company": "True Food Kitchen",
+          "source_url": "https://www.theofficialboard.com/news/true-food-kitchen",
+          "source_note": "VERY FRESH: Slemons joins True Food Kitchen as CDO on May 4, 2026 (literally this month). Nearly two decades real estate / franchising / store development; most recently CDO at Unleashed Brands. He is brand-new in seat \u2014 perfect window for Higney to introduce themselves as he's actively building his vendor list."
+        },
+        {
+          "name": "John Williams",
+          "title": "CEO, True Food Kitchen",
+          "company": "True Food Kitchen (Centerbridge + HumanCo + Manna Tree + Oprah)",
+          "source_url": "https://www.nrn.com/casual-dining/true-food-kitchen-names-john-williams-ceo",
+          "source_note": "Took CEO seat March 2023 after Christine Barone departed to Dutch Bros. Prior CMO at Lazy Dog Restaurants \u2014 direct connection to your other lead. Disneyland, General Mills, Nestle background."
+        },
+        {
+          "name": "Peter Koumas",
+          "title": "Chief Financial Officer",
+          "company": "True Food Kitchen",
+          "source_url": "https://www.nrn.com/restaurant-executives/true-food-kitchen-taps-wendy-s-veteran-peter-koumas-as-cfo",
+          "source_note": "CFO from Wendy's (11 yrs, international dev focus). Capex sign-off."
+        },
+        {
+          "name": "Jonathan Perez",
+          "title": "Chief Administrative Officer & General Counsel",
+          "company": "True Food Kitchen",
+          "source_url": "https://rocketreach.co/jonathan-perez-email_108975239",
+          "source_note": "CAO + GC \u2014 relevant for MSA / vendor contracting on FF&E procurement."
+        }
+      ],
+      "typical_suppliers": "True Food Kitchen is PE-backed by Centerbridge Partners (long-time investor, formerly owned P.F. Chang's), HumanCo, and Manna Tree, with celebrity capital from Oprah Winfrey, Howard Schultz, Lion Capital, and Dr. Andrew Weil (https://www.nrn.com/casual-dining/true-food-kitchen-gets-100m-investment-from-humanco-and-manna-tree). The $100M 2022 raise was specifically earmarked for the new smaller-format fast-casual concept AND growth of the flagship. General contractors on True Food buildouts include Jokake Construction (Phoenix, https://jokake.com/projects/true-food-kitchen/) and MCI Builders (https://mcibuildersaz.com/portfolio-item/true-food-kitchen/), both Phoenix-based \u2014 reflects FRC roots (Sam Fox was original co-founder with Dr. Weil). Procurement was historically directed by Director of Design and Development Mike Peralta (per RocketReach, though that role was 'COVID layoff'-noted, so likely vacated). The CDO seat under Ryan Slemons starting May 4, 2026 is now THE point of entry \u2014 he will own real estate + store development including FF&E procurement decisions. Channel is moving toward owner-rep/direct under the new CDO structure.",
+      "refurb_profile": "True Food's design language is wellness-bright: light woods, lots of natural fiber (rattan, woven), plants integrated into the space, lighter upholstery palette (cream/sage/terracotta), open kitchens visible from dining. They use real hardwood tabletops in most locations (not laminate) \u2014 fits Higney spec. Banquettes tend to be lower-profile and lighter-upholstered than at Earls. Chairs lean toward bentwood / cane / light-finish wood. The new fast-casual concept (in development) per Christine Barone quotes wants 'guardrails of the brand applied to something more convenient and agile from a development angle' (https://www.restaurantbusinessonline.com/financing/true-food-kitchen-plans-launch-new-fast-casual-brand-help-100m-investment) \u2014 that translates to lower buildout cost, which may push the fast-casual format toward more laminate/composite, but the full-service flagship remains hardwood-spec.",
+      "expansion_intel": "True Food Kitchen is at ~46 units (up from 42 at time of $100M raise). The new unnamed fast-casual format was supposed to launch in Phoenix; status as of mid-2026 unclear from public reporting \u2014 worth pressing for. Jacksonville Jax Daily Record confirmed a Midtown location (https://www.jaxdailyrecord.com/news/2018/may/04/true-food-kitchens-healthy-concept/) but that's old. Tampa Midtown opened recently per Fox 13. Specific 2026/2027 leases beyond what's announced were not surfacing \u2014 the Ryan Slemons hire on May 4, 2026 likely signals a development re-acceleration, but the pipeline he's building is not yet public. The Oprah celebrity-backed marketing tailwind plus Centerbridge cash gives them capital but they have been growing slowly post-COVID.",
+      "research_gap": "Could not surface a named current Director of Design or Director of Construction \u2014 Mike Peralta's COVID layoff appears to have left that seat unfilled, and Slemons (CDO) is brand-new (May 4 start). The whole development org under him may not yet be fully staffed, which is an OPPORTUNITY rather than a gap \u2014 Higney can offer to be a known-vendor early as he builds. New fast-casual concept format and timing not confirmed publicly beyond 2024 announcements. Centerbridge's operating partner on the deal also not surfaced."
     },
     {
       "id": "lazy-dog",
@@ -70,11 +206,52 @@
       "locations": 51,
       "expansion": "Utah (Murray) mid-2026.",
       "why_fit": "Rocky Mountain warm interiors = custom wood territory.",
-      "kill_risk": "PE 13yrs in — late-stage exit mode means FF&E squeeze. Mid-tier price point.",
+      "kill_risk": "PE 13yrs in \u2014 late-stage exit mode means FF&E squeeze. Mid-tier price point.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Counsel split — pessimist kill, generalist keep. Treat uncertain."
+      "notes": "Counsel split \u2014 pessimist kill, generalist keep. Treat uncertain.",
+      "prime_contacts": [
+        {
+          "name": "Dewayne Mitchell",
+          "title": "Director of Design and Construction",
+          "company": "Lazy Dog Restaurant & Bar",
+          "source_url": "https://www.linkedin.com/in/dewayne-mitchell-66b4b21ab/",
+          "source_note": "LinkedIn-verified. Direct in-house owner of design+construction at Lazy Dog corp (Huntington Beach HQ). This is the single most actionable contact for the entire lead."
+        },
+        {
+          "name": "Kevin Whattoff",
+          "title": "Chief Operating Officer",
+          "company": "Lazy Dog Restaurants, LLC",
+          "source_url": "https://www.linkedin.com/in/kevinwhattoff/",
+          "source_note": "COO \u2014 Mitchell's likely manager; prior Fleming's / Outback / Tony Roma's. LinkedIn-verified."
+        },
+        {
+          "name": "Robert Linder",
+          "title": "Chief Financial Officer",
+          "company": "Lazy Dog Restaurants, LLC",
+          "source_url": "https://cfothoughtleader.com/cfopodcasts/674-robert-linder-cfo-lazy-dog-restaurant-bar/",
+          "source_note": "CFO since 2016, ex-Bloomin' Brands (Outback/Bonefish). Has done a CFO Thought Leader podcast \u2014 public-facing. Capex sign-off."
+        },
+        {
+          "name": "Chris Simms",
+          "title": "Founder & CEO",
+          "company": "Lazy Dog Restaurants",
+          "source_url": "https://lazydogrestaurants.com/pages/our-founders",
+          "source_note": "Founder/CEO. Brentwood Associates portfolio company since 2013 but Simms is still operationally engaged."
+        },
+        {
+          "name": "James Gartner & Associates Architects (firm)",
+          "title": "Architect of record on multiple Lazy Dog buildouts",
+          "company": "James Gartner & Associates Architects, Inc. (Santa Ana, CA)",
+          "source_url": "https://www.linkedin.com/in/james-gartner-46805826/",
+          "source_note": "Confirmed architect on Naperville and other Lazy Dog builds. Designer-led spec channel; Santa Ana-based, geographically close to Lazy Dog HQ in Huntington Beach."
+        }
+      ],
+      "typical_suppliers": "Brentwood Associates PE-owned since 2013 (https://www.brentwood.com/our-portfolio/lazy-dog/). Procurement is direct/in-house out of Huntington Beach corporate \u2014 Director of Design and Construction Dewayne Mitchell owns spec and construction management. General contractor of record on at least 3 ground-up new builds: Shawmut Design and Construction (https://www.shawmut.com/project/lazy-dog) \u2014 Shawmut has built Lazy Dogs as ground-up turnkey including the exposed wood trellises, stone-clad columns, and polished concrete floors that are brand signature. Architect: James Gartner & Associates (Santa Ana CA) on multiple builds including Naperville. Procurement channel is direct/owner-rep with a designer-architect prototype set by James Gartner. Brentwood Associates does not appear to be running platform-level procurement \u2014 Lazy Dog runs autonomously.",
+      "refurb_profile": "Rocky Mountain-lodge inspired: exposed wood trellises, stone-clad columns, polished concrete floors, large stone fireplaces, exposed-beam ceilings (Shawmut.com case study confirms). This is the most hardwood-heavy of all 5 leads \u2014 they use real timber structurally AND in FF&E. Tabletops are heavy hardwood (often with live-edge or distressed finishes), chairs are wood-framed (Windsor-adjacent / heavy), banquettes are leather-heavy in deep tones (saddle/oxblood). Bar tops are typically wood. Each location averages 9,000-10,000 sq ft with ~200+ seats including patio (https://contracosta.news/2023/09/26/brentwood-city-council-approves-lazy-dog-restaurant/ confirms 9,909 sq ft for Brentwood). Material spec strongly favors hardwood over laminate, leather over vinyl. This is the clearest spec-fit of all 5 leads for Higney's product line.",
+      "expansion_intel": "Beyond Murray UT (mid-2026, demo-and-rebuild at 102 E Winchester St \u2014 https://www.ksl.com/article/51320068/growing-restaurant-chain-inspired-by-the-rocky-mountains-plans-to-enter-utah): (1) Richmond TX (Houston area) at Waterview Town Center, 4810 Waterview Meadow Dr, 9,300 sq ft (https://whatnow.com/houston/restaurants/lazy-dog-restaurant-and-bar-to-open-in-richmond/). (2) Brentwood CA at Sand Creek Road across from Streets of Brentwood \u2014 delayed to mid-2025 then further delayed (https://www.thepress.net/news/lazy-dog-delayed-until-mid-2025/article_c1fed72c-8ca9-11ef-b9d2-43156d8b3aa7.html ; https://contracosta.news/2024/10/11/lazy-dog-restaurant-in-brentwood-likely-postponed/) \u2014 status as of May 2026 uncertain, worth verifying. (3) Plans-Four-New-Locations press release on their own site (https://www.lazydogrestaurants.com/press/list/lazy-dog-restaurant-and-bar-plans-four-new-locations) indicates a 4-unit pipeline. (4) Pennsylvania (King of Prussia) opened late 2024 \u2014 established a new state, signal of Northeast push. Total footprint per company spans CA, CO, FL, GA, IL, NV, TX, VA, PA.",
+      "research_gap": "Could not get a comprehensive list of all 2026/2027 leases-in-flight \u2014 Lazy Dog's PR cadence is light. Brentwood Associates' partner overseeing the Lazy Dog investment not identified publicly (they've owned since 2013, so an exit / refinancing may be coming, which sometimes accelerates refurb spend). Brentwood CA location specifically \u2014 could not confirm whether construction restarted after Oct 2024 postponement."
     },
     {
       "id": "parker-hospitality",
@@ -89,7 +266,41 @@
       "status": "watch",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Counsel said watch list, not active. Austin asked to keep."
+      "notes": "Counsel said watch list, not active. Austin asked to keep.",
+      "prime_contacts": [
+        {
+          "name": "Brad Parker",
+          "title": "Founder & CEO",
+          "company": "Parker Hospitality",
+          "source_url": "https://www.parkerhospitality.com/about-brad",
+          "source_note": "Founder bio + Restaurant Unstoppable podcast ep. 936 + The Org leadership"
+        },
+        {
+          "name": "Steven Fiorentino",
+          "title": "President",
+          "company": "Parker Hospitality",
+          "source_url": "https://theorg.com/org/parker-hospitality",
+          "source_note": "The Org leadership profile"
+        },
+        {
+          "name": "Harrison (design firm)",
+          "title": "Interior Designer & Architect of Record for Hampton Social Dallas",
+          "company": "weareharrison.com",
+          "source_url": "https://www.fsrmagazine.com/industry-news/parker-hospitality-partnered-with-harrison-to-design-hampton-social-dallas/",
+          "source_note": "FSR Magazine + Harrison portfolio"
+        },
+        {
+          "name": "ARCO/Murray (GC)",
+          "title": "General Contractor on Hampton Social buildouts",
+          "company": "ARCO/Murray",
+          "source_url": "https://www.arcomurray.com/project/hampton-social/",
+          "source_note": "ARCO/Murray project page"
+        }
+      ],
+      "typical_suppliers": "Designer-led, centralized through Parker corporate (~30 staff). Harrison (weareharrison.com) is lead interior designer/AOR for Hampton Social \u2014 owns the 'Hampton Social 2.0' aesthetic (whitewashed wood, rope, exposed brick, raw steel, woven textiles). ARCO/Murray is GC. Direct procurement, NOT PE-platform consolidated.",
+      "refurb_profile": "Heavy whitewashed/reclaimed hardwood program: banquettes, four-tops, tabletops, 360-degree bars (Dallas centerpiece), rooftop seating. Hampton Social 2.0 refresh rolling across new openings. Strong custom-millwork need for banquettes + bar tops per build.",
+      "expansion_intel": "Virginia Beach confirmed (first VA). Western Chicago suburbs expansion (Trademark Property). Hampton House members-club format layering beneath Hampton Social \u2014 Dallas was first Oct 2025. Target ~21 units in 3 years from 13 today = ~8 unannounced sites in pipeline.",
+      "research_gap": "No dedicated VP of Construction/Design \u2014 Brad Parker-led with Harrison as design partner."
     },
     {
       "id": "1-hotels",
@@ -104,7 +315,47 @@
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Channel-partner play (RFP Design Group, OMNIA) — never direct."
+      "notes": "Channel-partner play (RFP Design Group, OMNIA) \u2014 never direct.",
+      "prime_contacts": [
+        {
+          "name": "Raul Leal",
+          "title": "Chief Executive Officer",
+          "company": "SH Hotels & Resorts",
+          "source_url": "https://skift.com/2021/10/11/new-sh-hotels-ceo-on-taking-founder-barry-sternlichts-vision-to-next-level/",
+          "source_note": "Skift confirming Leal as CEO"
+        },
+        {
+          "name": "Abhay Bakaya",
+          "title": "SVP, Development (global 1 Hotels, Treehouse, Baccarat)",
+          "company": "SH Hotels & Resorts",
+          "source_url": "https://theorg.com/org/sh-group-operations-llc/org-chart/abhay-bakaya",
+          "source_note": "The Org + SH bio describes him leading global expansion across Americas/EMEA/APAC"
+        },
+        {
+          "name": "Erik Eveleigh",
+          "title": "VP of Development, Americas",
+          "company": "SH Hotels & Resorts",
+          "source_url": "https://www.hotel-online.com/press_releases/release/sh-hotels-resorts-appoints-erik-eveleigh-as-vp-of-development-americas/",
+          "source_note": "March 2023 SH press release; eHotelier corroboration"
+        },
+        {
+          "name": "Josh Littman",
+          "title": "VP of Development, Europe",
+          "company": "SH Hotels & Resorts",
+          "source_url": "https://boutiquehotelnews.com/news/movers-and-shakers/sh-hotels-resorts-appoints-vp-of-development/",
+          "source_note": "Boutique Hotel News"
+        },
+        {
+          "name": "Meyer Davis Studio",
+          "title": "Lead Interior Design Firm (1 Hotel South Beach flagship)",
+          "company": "Meyer Davis (NYC)",
+          "source_url": "https://interiordesign.net/projects/youre-the-one-1-hotels-miami-beach-debut-by-meyer-davis-studio/",
+          "source_note": "Interior Design Magazine"
+        }
+      ],
+      "typical_suppliers": "Designer-led with strong sustainability/biophilic mandate (reclaimed wood, natural fiber, locally-sourced). Meyer Davis Studio = flagship design; Paola Navone slipcovered seating, beachy wicker, teak-topped tables. Owner-rep development under SH Hotels (Starwood Capital). Local design partners layered atop brand framework.",
+      "refurb_profile": "Reclaimed-wood tabletops, custom hardwood casegoods, banquettes in natural fibers/linens, live-edge bar tops, communal farm-style tables. Each 1 Hotel has 3-5 F&B outlets = heavy per-property FF&E spend. Strong product-market fit for hardwood seating/tabletops.",
+      "expansion_intel": "1 Hotel & Homes Hudson Valley (residences summer 2026, resort 2028, 775 acres Catskills). 1 Hotel Diriyah Riyadh 2027 (5 F&B outlets). 1 Hotel Elounda Hills Crete 2027 (5 F&B). 1 Hotel Austin Aug 2026 \u2014 Waterline tower (74 stories, tallest in TX), reservations live. Additional confirmed pipeline: Cabo, Paris, Tokyo, San Miguel de Allende."
     },
     {
       "id": "coopers-hawk",
@@ -119,22 +370,110 @@
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Counsel's #1 recommendation. ~6 stores/yr at $20K profit = $120K/yr recurring."
+      "notes": "Counsel's #1 recommendation. ~6 stores/yr at $20K profit = $120K/yr recurring.",
+      "prime_contacts": [
+        {
+          "name": "Tim McEnery",
+          "title": "Founder & CEO",
+          "company": "Cooper's Hawk Winery & Restaurants",
+          "source_url": "https://chwinery.com/about/our-founder",
+          "source_note": "Official founder page; NRN CEO profile + Bloomberg"
+        },
+        {
+          "name": "Walter Fisher",
+          "title": "VP, Development, Construction & Facilities",
+          "company": "Cooper's Hawk",
+          "source_url": "https://www.linkedin.com/in/walter-fisher-35b15029/",
+          "source_note": "PRIMARY decision-maker for FF&E + new-build. LinkedIn + Zippia"
+        },
+        {
+          "name": "Jennifer Durham",
+          "title": "Chief Development Officer",
+          "company": "Cooper's Hawk",
+          "source_url": "https://www.comparably.com/companies/363439/executive-team",
+          "source_note": "Comparably + Zippia"
+        },
+        {
+          "name": "Jo-El Quinlan",
+          "title": "SVP, Development",
+          "company": "Cooper's Hawk",
+          "source_url": "https://www.comparably.com/companies/363439/executive-team",
+          "source_note": "Comparably executive team"
+        },
+        {
+          "name": "Jason Plutz",
+          "title": "SVP, Operations",
+          "company": "Cooper's Hawk",
+          "source_url": "https://www.zippia.com/cooper-s-hawk-winery-and-restaurants-careers-20191/executives/",
+          "source_note": "Influences refurb decisions"
+        },
+        {
+          "name": "Dawn Phillipson",
+          "title": "CFO (Jan 2025) \u2014 came from Arhaus",
+          "company": "Cooper's Hawk",
+          "source_url": "https://www.prnewswire.com/news-releases/coopers-hawk-announces-three-senior-leadership-appointments-to-support-accelerated-growth-302362438.html",
+          "source_note": "Premium-FF&E sophistication signal"
+        },
+        {
+          "name": "Aria Group Architects (Joe Vajda AIA Principal, Shannon Sterne AIA, Dan Bernatek AIA, Ilias Saoukbaev AIA)",
+          "title": "Architect of Record + Interior Design Partner (longtime)",
+          "company": "Aria Group Architects Inc. (Oak Park, IL)",
+          "source_url": "https://www.ariainc.com/our-work/coopers-hawk-winery-restaurant/",
+          "source_note": "Aria portfolio + rd+d magazine"
+        }
+      ],
+      "typical_suppliers": "Architect-led centralized procurement. Aria Group Architects (Oak Park IL) owns the prototype design (Napa-style: wood plank ceilings + beams, stainless accents, transparent wine-bottle display walls, oversized vineyard art, bold light fixtures). Walter Fisher's D&C team executes against Aria spec. Direct/architect-specced, NOT PE-consolidated (Cooper's Hawk independent; Ares Management minority only).",
+      "refurb_profile": "Heavy hardwood: wood plank ceilings, exposed beams, large hardwood communal tables, banquettes, tasting bar millwork with wine-bottle display walls, private dining rooms (48-seat PDR per Livonia spec). Typical box: ~246 seats + ~48-seat covered patio + 48-seat PDR. Wine-club retail/tasting requires specialty casegoods. Prototype is REPLICATED across units \u2014 winning the spec = repeating pipeline.",
+      "expansion_intel": "Livonia MI opens March 2 2026 (17115 N Laurel Park Dr \u2014 5th MI). Woodbridge VA opens May 18 2026 (Stonebridge at Potomac Town Center, 14901 Potomac Town Pl \u2014 4th DC). Pleasant Prairie WI opens May 11 2026 (7530 115th Ave). Madison AL opened Feb 9 2026. Avondale AZ opened March 16 2026. Three senior-leadership appointments Jan 2025 framed as supporting 'accelerated growth' \u2014 more in pipeline."
     },
     {
       "id": "postino",
-      "name": "Postino WineCafé (Upward Projects)",
-      "parent": "Upward Projects (PE-backed — also owns Federal Pizza, Windsor, Joyride)",
+      "name": "Postino WineCaf\u00e9 (Upward Projects)",
+      "parent": "Upward Projects (PE-backed \u2014 also owns Federal Pizza, Windsor, Joyride)",
       "category": "New top adds",
       "tier": "A",
       "locations": 34,
       "expansion": "Doubling in 5 years. 2026: Charlotte (Plaza Midwood), Chapel Hill NC, Austin Westlake, Vernon Hills IL.",
       "why_fit": "Wine-bar concept, controlled design language across the chain. Lots of tabletops + bar tops. One conversation sells into 4 brands.",
-      "kill_risk": "PE recently invested — capex pace will be aggressive but procurement may centralize.",
+      "kill_risk": "PE recently invested \u2014 capex pace will be aggressive but procurement may centralize.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Cross-sell potential into Federal Pizza, Windsor, Joyride."
+      "notes": "Cross-sell potential into Federal Pizza, Windsor, Joyride.",
+      "prime_contacts": [
+        {
+          "name": "Lauren Bailey",
+          "title": "Co-Founder & CEO",
+          "company": "Upward Projects",
+          "source_url": "https://upwardprojects.com/about-us/",
+          "source_note": "Upward Projects 'About' \u2014 co-founder/CEO"
+        },
+        {
+          "name": "Curtis White",
+          "title": "Director of Construction",
+          "company": "Upward Projects",
+          "source_url": "https://www.linkedin.com/in/curtis-white-61699511/",
+          "source_note": "LinkedIn \u2014 oversees new-build + adaptive-reuse, direct FF&E decision-maker"
+        },
+        {
+          "name": "JoAnn Luksza",
+          "title": "Senior Design Manager",
+          "company": "Upward Projects",
+          "source_url": "https://www.linkedin.com/posts/joann-luksza-29534948_im-happy-to-share-that-im-starting-a-new-position-as-design-manager-at-activity-6939306238006484992-mcIz",
+          "source_note": "LinkedIn \u2014 Postino server \u2192 commercial interior designer \u2192 leads design program"
+        },
+        {
+          "name": "Shepley Bulfinch (Phoenix office)",
+          "title": "Architecture Firm \u2014 multi-project partner",
+          "company": "Shepley Bulfinch",
+          "source_url": "https://shepleybulfinch.com/projects/upward-projects-postino-east/",
+          "source_note": "Documented Postino East (Gilbert) collaboration"
+        }
+      ],
+      "typical_suppliers": "Designer-led with significant in-house control. JoAnn Luksza + Curtis White drive design/buildout from Upward's Phoenix HQ. Third-party AOR (Shepley Bulfinch most documented). Construction team handles site investigation, budgets, CDs, manages architects + vendors. PE-backed but procurement NOT consolidated through PE \u2014 runs through Upward internal. Adaptive-reuse-heavy drives custom-millwork demand.",
+      "refurb_profile": "Adaptive-reuse aesthetic: original steel beams + concrete floors, softer wood trusses, warm colors, vintage furniture + decor. Track lighting + exposed mechanical, colored walls + vintage fixtures. Signature 16' garage-door bar opening to patio (Gilbert prototype). High volume of custom communal tables in reclaimed/warm wood, banquettes, bar tops.",
+      "expansion_intel": "Chapel Hill NC 2026 (201 S Estes Dr Ste 302). Vernon Hills IL confirmed (887 N Milwaukee Ave Unit 400, Mellody Farm, former City Barbeque space). Charlotte Plaza Midwood documented. Raleigh NC Village District NEW (not in original notes) via WRAL. Goal: double from 34 in 5 years.",
+      "research_gap": "No VP-level title surfaced \u2014 Director-level construction/design heads report to founders. Brand presidents for Federal Pizza/Windsor/Joyride not separately identified."
     },
     {
       "id": "fox-restaurant-concepts",
@@ -144,12 +483,53 @@
       "tier": "A+",
       "locations": 100,
       "expansion": "Flower Child + Blanco at Novus Place Tempe (Feb 2026), Doughbird Dallas, The Henry Plano late 2026, new cocktail bar concept teased.",
-      "why_fit": "THE WEDGE. ~20 design-forward concepts (Flower Child, Culinary Dropout, The Henry, Doughbird, North Italia). One FF&E director = 20-brand pipeline. Pitch: 'we did Maggiano's tabletops — your sibling under Cheesecake Factory.'",
-      "kill_risk": "Cheesecake Factory parent procurement may want to consolidate. But Maggiano's worked inside Brinker — same shape.",
+      "why_fit": "THE WEDGE. ~20 design-forward concepts (Flower Child, Culinary Dropout, The Henry, Doughbird, North Italia). One FF&E director = 20-brand pipeline. Pitch: 'we did Maggiano's tabletops \u2014 your sibling under Cheesecake Factory.'",
+      "kill_risk": "Cheesecake Factory parent procurement may want to consolidate. But Maggiano's worked inside Brinker \u2014 same shape.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "GENERALIST'S ONE PICK. Ceiling here is $20M+, not $3M. Highest leverage on the entire list."
+      "notes": "GENERALIST'S ONE PICK. Ceiling here is $20M+, not $3M. Highest leverage on the entire list.",
+      "prime_contacts": [
+        {
+          "name": "Sam Fox",
+          "title": "Founder & CEO",
+          "company": "Fox Restaurant Concepts (Cheesecake Factory sub)",
+          "source_url": "https://hospitalitydesign.com/people/podcasts/sam-fox-what-ive-learned-podcast/",
+          "source_note": "Hospitality Design podcast; 12 News Phoenix + InBusiness Phoenix"
+        },
+        {
+          "name": "Russell Owens",
+          "title": "President & COO",
+          "company": "Fox Restaurant Concepts",
+          "source_url": "https://rocketreach.co/fox-restaurant-concepts-management_b5c71559f42e0d28",
+          "source_note": "RocketReach management directory"
+        },
+        {
+          "name": "Jason Frandsen",
+          "title": "VP of Procurement and Standards",
+          "company": "Fox Restaurant Concepts",
+          "source_url": "https://rocketreach.co/fox-restaurant-concepts-management_b5c71559f42e0d28",
+          "source_note": "DIRECT FF&E procurement decision-maker (title literally says 'Procurement and Standards')"
+        },
+        {
+          "name": "Judith Testani",
+          "title": "Principal, Testani Design Troupe (designer of record on majority of Sam Fox projects)",
+          "company": "Testani Design Troupe",
+          "source_url": "https://hospitalitydesign.com/people/interviews/sam-fox-continues-his-legacy/",
+          "source_note": "Hospitality Design profile names her as Sam Fox's longtime collaborator"
+        },
+        {
+          "name": "Jeff Berghoff",
+          "title": "Principal, Berghoff Design Group (landscape/design)",
+          "company": "Berghoff Design Group",
+          "source_url": "https://hospitalitydesign.com/people/interviews/sam-fox-continues-his-legacy/",
+          "source_note": "Long-term landscape/design collaborator across FRC portfolio"
+        }
+      ],
+      "typical_suppliers": "Designer-led: Jason Frandsen (VP Procurement & Standards \u2014 corporate buyer) + Judith Testani (Testani Design Troupe, designer of record on majority of Fox concepts) + Jeff Berghoff (landscape/exterior). Sam Fox personally hands-on with design \u2014 Hospitality Design describes him as obsessive about materials + guest-environment narrative. Since Cheesecake Factory acquired FRC in 2019, procurement remains independent at FRC Phoenix HQ (NOT consolidated through Cheesecake parent \u2014 FRC retains design DNA per acquisition agreement).",
+      "refurb_profile": "20-brand portfolio with varied aesthetics, consistently elevated: The Henry (warm woods, leather, brass), Flower Child (light biophilic, natural-fiber, blonde woods), Blanco (Mexican coastal, painted tile, hardwood, vibrant color), Doughbird (industrial, reclaimed wood communal), Culinary Dropout (eclectic vintage mixed seating), North Italia (Italian classic). Heavy use of custom hardwood communal tables, banquettes, bar tops. The Henry Plano is a 13th Henry \u2014 repeatable spec.",
+      "expansion_intel": "The Henry Plano: Legacy West, late 2026. The Henry Scottsdale: Scottsdale 101 at Loop 101 & Scottsdale Rd, ground-up build, summer 2026 \u2014 NEW intel. Pushing Daisies (Sam Fox's first cocktail bar concept) \u2014 underground margarita bar fall 2026 Nashville, 50-margarita menu, mezcal/tequila program. Th\u00e9a Mediterranean Rooftop early 2027 at Knox Street development Dallas \u2014 NEW. Culinary Dropout at The Village at Meridian ID \u2014 NEW.",
+      "research_gap": "Individual brand-president names not surfaced \u2014 FRC may not use that structure; Russell Owens (President/COO) appears to oversee full 20-brand portfolio."
     },
     {
       "id": "cava",
@@ -159,12 +539,39 @@
       "tier": "B",
       "locations": 350,
       "expansion": "72 opens in 2025, 74-76 guided for 2026. Target 1,000 by 2032.",
-      "why_fit": "$1B+ revenue, Mediterranean fast-casual with real design ambition — wood, stone, warm materials.",
+      "why_fit": "$1B+ revenue, Mediterranean fast-casual with real design ambition \u2014 wood, stone, warm materials.",
       "kill_risk": "Fast-casual = smaller tabletop budget per store. Procurement at scale may already be locked.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Approach via RFP Design Group / Avendra (procurement channel). Volume play even at low per-unit margin."
+      "notes": "Approach via RFP Design Group / Avendra (procurement channel). Volume play even at low per-unit margin.",
+      "prime_contacts": [
+        {
+          "name": "Jeff Gaul",
+          "title": "Chief Development Officer",
+          "company": "CAVA Group",
+          "source_url": "https://investor.cava.com/governance/board-of-directors/person-details/default.aspx?ItemId=b6154d6f-b3e3-47e2-a6fc-f3ae42a2a519",
+          "source_note": "CAVA IR governance page. From Nike (VP Global Store Dev) + Sephora (SVP Store Dev) May 2024. Oversees real estate, design, construction, strategic sourcing, facilities \u2014 owns FF&E chain."
+        },
+        {
+          "name": "Melissa Ng",
+          "title": "SVP, Design & Construction",
+          "company": "CAVA Group",
+          "source_url": "https://restaurantspaces.co/speaker/melissa-ng/",
+          "source_note": "RestaurantSpaces speaker bio + LinkedIn. Leads 'Project Soul' redesign \u2014 warm/Mediterranean prototype replacing 13-yr industrial chic. Prior: Chipotle Retail Design Director, Blink Fitness Head of D&C. Direct buyer for new-build FF&E."
+        },
+        {
+          "name": "Andy Rebhun",
+          "title": "Chief Experience Officer",
+          "company": "CAVA Group",
+          "source_url": "https://www.nrn.com/fast-casual/cava-names-andrew-rebhun-as-chief-experience-officer",
+          "source_note": "Joined 2023 from El Pollo Loco (CMO/VP Digital). Owns guest experience incl. in-restaurant ambiance \u2014 influences design direction alongside Ng."
+        }
+      ],
+      "typical_suppliers": "Centralized procurement under Jeff Gaul (CDO) \u2014 'strategic sourcing' explicit in his bio. CORE architecture + design (DC) was OG prototype designer (copper light fixtures, rustic Mediterranean). 'Project Soul' redesign is Ng's in-house program. Horizon Construction Co. as one GC example ($665,610 Jacksonville buildout permit Feb 2026). Pattern: in-house design + GC-per-region.",
+      "refurb_profile": "Project Soul prototype: cushioned banquette seating, modular dining-room seating, warmer wood tones, greenery/biophilic. Replacing concrete/steel/industrial. Pilots in Chicago, Houston, Fort Worth. Natural materials, warm woods, durable finishes for high-traffic fast-casual.",
+      "expansion_intel": "Q2 2026 confirmed: 9303 Baymeadows Rd Jacksonville FL (2,600 sqft, buildout permitted Feb 10 2026); 448 S Route 59 Naperville IL (2,800 sqft); 1555 Deerfield Pkwy Buffalo Grove IL (2,800 sqft). 92 net new openings ahead of 74-76 guide as of 16 weeks ended April 19 2026. Analyst note suggests 2,000-unit ceiling vs management's 1,000-by-2032.",
+      "research_gap": "Project Soul external designer of record not publicly disclosed; no named furniture/casegoods vendor public."
     },
     {
       "id": "sixty-vines",
@@ -179,7 +586,48 @@
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Strong Maggiano's-shape fit."
+      "notes": "Strong Maggiano's-shape fit.",
+      "prime_contacts": [
+        {
+          "name": "Jeff Carcara",
+          "title": "CEO",
+          "company": "Sixty Vines",
+          "source_url": "https://www.restaurantnews.com/sixty-vines-welcomes-jeff-carcara-as-ceo-051920/",
+          "source_note": "Named CEO May 2020. Prior leadership at Del Frisco's, Barteca, Darden, Hillstone."
+        },
+        {
+          "name": "Randy DeWitt",
+          "title": "Founder / Chairman, Front Burner Restaurants (parent)",
+          "company": "Front Burner Restaurants",
+          "source_url": "https://www.fsrmagazine.com/content/sixty-vines-welcomes-jeff-carcara-ceo",
+          "source_note": "Original concept developer. Sixty Vines incubated alongside Whiskey Cake + Mexican Sugar."
+        },
+        {
+          "name": "Civitarese Morgan Architecture (Irving TX)",
+          "title": "Architect of Record \u2014 San Antonio La Cantera",
+          "company": "Civitarese Morgan",
+          "source_url": "https://sanantonio.culturemap.com/news/restaurants-bars/60-vines-opening-la-cantera/",
+          "source_note": "$2.5M renovation of 8,701 sqft at 15900 La Cantera Pkwy"
+        },
+        {
+          "name": "Gensler",
+          "title": "Architect \u2014 Sixty Vines at Assembly Food Hall Nashville",
+          "company": "Gensler",
+          "source_url": "https://www.gensler.com/projects/sixty-vines-at-assembly-food-hall",
+          "source_note": "Gensler project page"
+        },
+        {
+          "name": "Tractorbeam",
+          "title": "Branding/visual design",
+          "company": "Tractorbeam",
+          "source_url": "https://tractorbeam.com/work/sixty-vines/",
+          "source_note": "Case study"
+        }
+      ],
+      "typical_suppliers": "Project-by-project AOR/GC selection. Front Burner uses regional architects (Civitarese Morgan TX, Gensler TN). Liles Construction was GC for Nashville (PM Brenden Eaton, Super Brad Long). No centralized FF&E procurement firm identified \u2014 likely direct buyer with consultant design support.",
+      "refurb_profile": "Tabletops in natural wood, banquettes, bar tops (60 wines-on-tap dispensing requires bespoke bar), bar/dining chairs, custom millwork, biophilic/planted elements, lighting. Whitewashed brick + industrial fixtures + biophilic mix.",
+      "expansion_intel": "Raleigh NC opened Dec 2025. Austin TX operating (3401 Esperanza Crossing). The Woodlands TX (Market Street) operating. Carcara has stated 'wherever' growth ambitions.",
+      "research_gap": "No named VP Development or Director Construction surfaced. Carcara is exec sponsor; project-level oversight handled with external AOR per project. No formal 2026/2027 pipeline announced beyond La Cantera early 2026."
     },
     {
       "id": "velvet-taco",
@@ -189,12 +637,46 @@
       "tier": "B+",
       "locations": 50,
       "expansion": "London Nov 2025. 2026: Raleigh (Feb), Phoenix PV Mall, Georgetown TX (July).",
-      "why_fit": "Brand DNA is 'weirdly designed taco bar' — quirky tilework, custom furniture, NOT commodity.",
+      "why_fit": "Brand DNA is 'weirdly designed taco bar' \u2014 quirky tilework, custom furniture, NOT commodity.",
       "kill_risk": "New PE owner may push standardization to drive multiples.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Internationalizing — bigger pipeline coming."
+      "notes": "Internationalizing \u2014 bigger pipeline coming.",
+      "prime_contacts": [
+        {
+          "name": "Clay Dover",
+          "title": "CEO",
+          "company": "Velvet Taco",
+          "source_url": "https://www.qsrmagazine.com/news/velvet-taco-promotes-clay-dover-ceo/",
+          "source_note": "Promoted President \u2192 CEO 2019. Stated ambition for 100+ units, 'hundreds' eventually, plus international (London Nov 2025 first international)."
+        },
+        {
+          "name": "Allyn Taylor",
+          "title": "Chief Development Officer (Feb 2025 NRN appointment) \u2014 VERIFY: RocketReach suggests move to BIBIBOP",
+          "company": "Velvet Taco",
+          "source_url": "https://www.nrn.com/fast-casual/velvet-taco-names-allyn-taylor-chief-development-officer",
+          "source_note": "Ex-Zo\u00ebs Kitchen CDO (250+ restaurants), Panera, P.F. Chang's. CALL TO VERIFY before outreach (https://rocketreach.co/allyn-taylor-email_5002324)"
+        },
+        {
+          "name": "Lee Evans",
+          "title": "CFO",
+          "company": "Velvet Taco",
+          "source_url": "https://www.nrn.com/fast-casual/velvet-taco-names-lee-evans-as-first-cfo",
+          "source_note": "First CFO appointment. Signs capex authorizations on FF&E."
+        },
+        {
+          "name": "NELSON Worldwide",
+          "title": "Designer of Record \u2014 restaurant prototype",
+          "company": "NELSON Worldwide",
+          "source_url": "https://nelsonworldwide.com/project/velvet-taco/",
+          "source_note": "Designed VT prototype: industrial architecture, handcrafted textures, locally-commissioned art (Marie Antoinette paintings)"
+        }
+      ],
+      "typical_suppliers": "Designer-led with NELSON Worldwide as recurring AOR. L Catterton majority owner + Front Burner Restaurants LP minority/operator legacy. New 'Taco Lane' drive-through prototype tested in Grapevine + Rockwall TX before Frisco rollout \u2014 prototype iteration in-house with NELSON.",
+      "refurb_profile": "Tabletops, bar tops, communal/high-top tables, chairs, custom millwork, locally-commissioned art integration, drive-thru-adjacent dining for Taco Lane, banquettes for full-service. Industrial-handcrafted: reclaimed/distressed wood, metal, vibrant color, hand-painted murals integrated into millwork.",
+      "expansion_intel": "Frisco TX 'Taco Lane' drive-thru prototype announced. Three additional DFW locations announced. Chicago infill \u2014 Dover stated potential 24 units in Chicago metro (currently 3). Live pipeline page: velvettaco.com/coming-soon-locations/. Stated goal: 100 units near-term, hundreds long-term + international.",
+      "research_gap": "Post-Taylor CDO replacement not publicly announced; no separate named VP Construction; no named furniture/casegoods vendor."
     },
     {
       "id": "auberge",
@@ -204,12 +686,45 @@
       "tier": "A",
       "locations": 25,
       "expansion": "2026: The Knox (Dallas), The Hearst (SF), The Birdsall (Houston), Moncayo (Puerto Rico), Shell Bay (Australia). 2027: Shore Club Miami Beach.",
-      "why_fit": "Boutique luxury hotel group. Every property = one-off design statement + attached restaurants. Major Food Group opens Major's Grill in Auberge Cambridge House London — proves they buy from custom operators.",
+      "why_fit": "Boutique luxury hotel group. Every property = one-off design statement + attached restaurants. Major Food Group opens Major's Grill in Auberge Cambridge House London \u2014 proves they buy from custom operators.",
       "kill_risk": "1-2 properties/yr, but each = full restaurant FF&E buy. Different designer per property.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Per-deal dollar size is the highest in the list."
+      "notes": "Per-deal dollar size is the highest in the list.",
+      "prime_contacts": [
+        {
+          "name": "Ken Ishiguro",
+          "title": "VP, Design & Construction",
+          "company": "Auberge Resorts Collection",
+          "source_url": "https://auberge.com/press/auberge-resorts-collection-names-ken-ishiguro-vice-president-design-and-construction/",
+          "source_note": "PRIMARY TARGET for FF&E vendor approval at portfolio level. From Accor Hotels (Executive Director D&TS Luxury Division)."
+        },
+        {
+          "name": "Grace Esca\u00f1o-Maniatis",
+          "title": "Director of Design",
+          "company": "Auberge Resorts Collection",
+          "source_url": "https://www.linkedin.com/in/graceescano/?_l=en",
+          "source_note": "Leads design execution across Auberge projects. Direct interface with property-level designers."
+        },
+        {
+          "name": "Chelsea Buckland",
+          "title": "VP, Acquisitions & Development",
+          "company": "Auberge Resorts Collection",
+          "source_url": "https://auberge.com/about-us/people/",
+          "source_note": "Owns deal flow / new property additions \u2014 leading indicator of pipeline."
+        },
+        {
+          "name": "Richard Arnold",
+          "title": "Chief Development Officer",
+          "company": "Auberge Resorts Collection",
+          "source_url": "https://auberge.com/about-us/people/",
+          "source_note": "Oversees global growth, owner relations, design/construction strategy, residential program."
+        }
+      ],
+      "typical_suppliers": "Per-property designer-led. Auberge + ownership group selects different interior design firm per property. Named 2026/2027 pipeline designers: Martin Brudnizki (The Knox Dallas), Woods Bagot (architect Knox), Chad Dorsey (Knox residences), Roman and Williams (Hearst SF + Birdsall Houston), KPF (architect Birdsall), Dillon Kyle (Birdsall residential), Hart Howerton (architect Moncayo PR), Studio Paolo Ferrari (Moncayo interiors), RAMSA (Shore Club Miami architect), Bryan O'Sullivan (Shore Club interiors), Kobi Karp (Shore Club preservation), AvroKO (Shell Bay).",
+      "refurb_profile": "Custom hardwood tabletops, restaurant banquettes, bar tops, casegoods, signature dining-venue furniture, hotel restaurant + rooftop bar seating. Each property has 2-4 F&B venues = repeat FF&E. Highly custom natural hardwoods, leather, brass, marble, stone. Designer-specified bespoke (not catalog).",
+      "expansion_intel": "CORRECTION: Shell Bay is Hallandale Beach FL (Gold Coast Florida), NOT Australia. The Birdsall Houston opens 2027 (not 2026). Moncayo Puerto Rico debuts 2027. Shell Bay debuts 2027. The Knox Dallas only confirmed 2026 hotel opening. Friedkin Group (parent) actively scaling globally \u2014 Buckland's role indicates deal-flow velocity."
     },
     {
       "id": "soho-house",
@@ -224,7 +739,34 @@
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Prestige reference customer — winning one Soho House opens 1 Hotels-tier doors."
+      "notes": "Prestige reference customer \u2014 winning one Soho House opens 1 Hotels-tier doors.",
+      "prime_contacts": [
+        {
+          "name": "Domhnall Nolan",
+          "title": "Senior / Lead Interior Designer (in-house)",
+          "company": "Soho House & Co",
+          "source_url": "https://domhnallnolan.com/About",
+          "source_note": "Led Tokyo (opened April 2026), Balham, Roses of Elagabalus London. PRIMARY DESIGN CONTACT for new openings."
+        },
+        {
+          "name": "Linda Boronkay",
+          "title": "Former Design Director (now independent \u2014 Boronkay Studio)",
+          "company": "Boronkay Studio / formerly Soho House",
+          "source_url": "https://boronkay.studio/projects/soho-house",
+          "source_note": "Led 20+ Soho House projects through ~2020. Useful indirect contact."
+        },
+        {
+          "name": "Vicky Charles",
+          "title": "Founder, Charles & Co \u2014 former Global Head of Design at Soho House",
+          "company": "Charles & Co / formerly Soho House",
+          "source_url": "https://www.charlesandco.com/studio",
+          "source_note": "Designed Soho Farmhouse UK, The Ned, Little Beach House Malibu. Likely involved in 2027 Farmhouse NY / Ranch House Sonoma."
+        }
+      ],
+      "typical_suppliers": "Highly in-house. Soho House operates Soho Home \u2014 own furniture/casegoods brand (oak bar cabinets, marble dining tables, tufted bed frames, custom upholstery). Trade Services program for designers/architects. In-house design team + Domhnall Nolan + regional artisan commissions (Tokyo collaborated with Makino Urushi Kyoto lacquer + KAMISM washi paper). Sordo Madaleno (Mexico City) architect for Los Cabos. Sugarhouse Design & Architecture (NYC) credits Soho House millwork/FF&E procurement.",
+      "refurb_profile": "Custom hardwood tabletops, banquettes, dining chairs, bar tops, upholstered lounge, custom millwork (oak bar cabinets signature), restaurant casegoods, hotel guestroom casegoods, rooftop furniture. Cecconi's in each House = recurring FF&E demand. Warm hardwoods (oak, walnut), brass/antiqued brass, marble, velvet/linen, vintage + bespoke. Tokyo introduced parquet/tatami-inspired, Kyoto lacquer, washi \u2014 open to regional materials.",
+      "expansion_intel": "CORRECTIONS: Tokyo OPENED April 6 2026 (42 bedrooms, Aoyama). Flatiron NYC is 2027 (NOT 2026) \u2014 largest US House. Holloway LA is 2026 'update' (pickleball + art), not full reno. Farmhouse NY (Rhinebeck, 250 acres, 48 bedrooms) 2027. Desert House Palm Springs 2027 (largest pool 180ft). Ranch House Sonoma 2027 (50 cottages, Kenwood CA). 2027 lineup = 4 large-scale ground-up FF&E packages being specified NOW in 2026. CEO Andrew Carnie publicly prioritizes North American expansion.",
+      "research_gap": "Soho House does not publicly disclose a procurement or FF&E director. Procurement flows through in-house design + Soho Home. Best access route is Nolan or property-level project lead."
     },
     {
       "id": "eataly",
@@ -233,13 +775,104 @@
       "category": "New top adds",
       "tier": "A",
       "locations": 50,
-      "expansion": "Aventura FL, West Palm Beach FL (CityPlace), King of Prussia PA, Short Hills NJ. JFK Terminals 4/5 coming. New 'Eataly Caffè' smaller format. 20 stores in 5 years.",
+      "expansion": "Aventura FL, West Palm Beach FL (CityPlace), King of Prussia PA, Short Hills NJ. JFK Terminals 4/5 coming. New 'Eataly Caff\u00e8' smaller format. 20 stores in 5 years.",
       "why_fit": "Italian food hall + restaurant. Multiple seating concepts per location, each architecturally distinct. Aggressive North America push.",
-      "kill_risk": "Italian heritage — may prefer Italian-made FF&E for brand authenticity.",
+      "kill_risk": "Italian heritage \u2014 may prefer Italian-made FF&E for brand authenticity.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Big per-location FF&E spend. Aventura is on home turf."
+      "notes": "Big per-location FF&E spend. Aventura is on home turf.",
+      "prime_contacts": [
+        {
+          "name": "Tommaso Brus\u00f2",
+          "title": "CEO, Eataly North America",
+          "company": "Eataly USA",
+          "source_url": "https://www.nrn.com/restaurant-segments/eataly-appoints-tommaso-brus-as-first-ceo-of-north-america-division",
+          "source_note": "NRN: appointed first North America CEO Oct 2023; leading the 20-stores-in-5-years push; cited by name in RCC Associates press release for West Palm Beach build."
+        },
+        {
+          "name": "Stephanie Stein Werther",
+          "title": "Head of Real Estate, North America",
+          "company": "Eataly USA",
+          "source_url": "https://www.linkedin.com/in/stephanie-werther/",
+          "source_note": "LinkedIn / ZoomInfo confirm role; she posted on the CoStar suburban-mall expansion story (Aventura, Short Hills, KOP); primary real-estate signing contact."
+        },
+        {
+          "name": "Stefano Murialdo",
+          "title": "Vice President, Operations (West Coast + Texas)",
+          "company": "Eataly USA",
+          "source_url": "https://www.linkedin.com/in/stefanomurialdo/",
+          "source_note": "LinkedIn: leads development/opening of LA, Silicon Valley, Las Vegas, Dallas \u2014 operational owner for new builds in those markets."
+        },
+        {
+          "name": "research_gap",
+          "title": "VP Construction & Design (Chris Delusky successor)",
+          "company": "Eataly USA",
+          "source_url": "https://americanbuildersquarterly.com/2020/chris-delusky-eataly/",
+          "source_note": "Chris Delusky (former VP Construction & Design) has departed Eataly; current successor not surfaced in public press. LeadIQ shows the role exists but lists only initials 'D.P.' \u2014 not enough to verify."
+        }
+      ],
+      "typical_suppliers": [
+        {
+          "vendor": "RCC Associates",
+          "role": "General contractor \u2014 restaurant/retail builds incl. Eataly West Palm Beach",
+          "source_url": "https://rccassociates.com/press/eatalywpb"
+        },
+        {
+          "vendor": "VRH Construction",
+          "role": "General contractor for Eataly JFK Terminal 8 (first NA airport location)",
+          "source_url": "https://www.vrhconstruction.com/post/unveiling-the-first-eataly-in-a-north-american-airport-at-jfk-international-airport"
+        },
+        {
+          "vendor": "HMSHost (Avolta) + ASUR Airports",
+          "role": "Concession operator partner for airport Eataly locations (JFK T8, T4, T5)",
+          "source_url": "https://www.passengerterminaltoday.com/news/food-beverage/eataly-opens-first-north-american-airport-location-at-jfk.html"
+        },
+        {
+          "vendor": "In-house design + Eataly SpA Italian design team (Turin)",
+          "role": "Concept/interior design lead \u2014 Eataly historically uses internal team supplemented by local AOR for each market",
+          "source_url": "https://www.miaminewtimes.com/food-drink/newest-florida-eataly-location-to-open-in-west-palm-beach-40505335/"
+        },
+        {
+          "vendor": "research_gap",
+          "role": "Specific custom millwork/hardwood-tabletop fabricator of record \u2014 Eataly procurement is global and not publicly disclosed; the marketplace fixtures (wood produce displays, counters, communal tables, banquettes) appear partially shipped from Italy + supplemented locally. Worth direct outreach to Werther/Murialdo to learn US procurement channel.",
+          "source_url": null
+        }
+      ],
+      "refurb_profile": {
+        "categories": [
+          "communal hardwood tabletops",
+          "marketplace counters/casegoods",
+          "banquettes for trattorias",
+          "bar tops",
+          "patio/sidewalk-cafe furniture for Caff\u00e8 format",
+          "caf\u00e9 two-tops/four-tops"
+        ],
+        "material_preferences": "Warm hardwoods (walnut/oak), marble/stone tops at bars and Caff\u00e8 counters, brass/bronze accents, Italianate trattoria aesthetic. Each marketplace has 3-5 sit-down restaurants inside (La Pizza, La Pasta, Il Pesce, etc.) plus a stand-up espresso bar \u2014 heavy banquette and tabletop volume per store.",
+        "source_url": "https://wwd.com/business-news/retail/eatalys-widening-menu-of-products-and-experiences-1238438892/"
+      },
+      "expansion_intel": [
+        {
+          "location": "JFK Terminal 8",
+          "status": "Opened Jan 2026 \u2014 5,526 sf full-service restaurant + 1,353 sf wine bar + marketplace",
+          "source_url": "https://www.passengerterminaltoday.com/news/food-beverage/eataly-opens-first-north-american-airport-location-at-jfk.html"
+        },
+        {
+          "location": "JFK Terminals 4 & 5",
+          "status": "Confirmed for later 2026 by Port Authority press release",
+          "source_url": "https://www.panynj.gov/port-authority/en/press-room/press-release-archives/2026-press-releases/port-authority-of-new-york-and-new-jersey--hmshost-and-asur-airports-unveil-the-first-eately.html"
+        },
+        {
+          "location": "Eataly Caff\u00e8 rollout",
+          "status": "3 NYC sites live (Rockefeller, Hudson Yards, Upper East Side/Lex+78). Strategic plan signals additional Caff\u00e8 locations in LA, SF, Dallas markets where full Eataly already operates. \u20ac75M capital raise; half deployed by 11/30/2025, balance by 6/30/2026.",
+          "source_url": "https://wwd.com/business-news/retail/eatalys-widening-menu-of-products-and-experiences-1238438892/"
+        },
+        {
+          "location": "Suburban-mall format push",
+          "status": "Aventura, Short Hills, KOP, West Palm CityPlace open/in-progress; CoStar reports Eataly shifting to suburban mall anchor strategy \u2014 more deals expected with Simon/Brookfield centers.",
+          "source_url": "https://www.costar.com/article/1845135007/global-italian-market-eataly-heads-to-suburban-malls-in-sign-of-further-shift-for-retail-centers"
+        }
+      ]
     },
     {
       "id": "lettuce-entertain-you",
@@ -254,7 +887,104 @@
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Worth the call. Aba + Sushi-san are the growth vehicles, not the legacy concepts."
+      "notes": "Worth the call. Aba + Sushi-san are the growth vehicles, not the legacy concepts.",
+      "prime_contacts": [
+        {
+          "name": "R.J. Melman",
+          "title": "President & CEO",
+          "company": "Lettuce Entertain You Restaurants",
+          "source_url": "https://www.restaurantbusinessonline.com/leadership/rj-melman-named-ceo-lettuce-entertain-you-restaurants",
+          "source_note": "President since 2017, named CEO 2025. Personally led creation of Aba, Sushi-san, RPM, Crying Tiger. Approves all new-concept builds."
+        },
+        {
+          "name": "Marc Jacobs",
+          "title": "Executive Partner & Divisional President \u2014 Aba, Antico Posto, Beatrix, The Dalcy, Ema, Rotisserie Ema, L. Woods",
+          "company": "Lettuce Entertain You Restaurants",
+          "source_url": "https://www.lettuce.com/about-us/partners/",
+          "source_note": "35-year LEYE veteran; owns the Aba and Ema divisions \u2014 these are the brands in the 2025-26 expansion (Nashville, Austin, Dallas Seam). Direct decision-maker on FF&E for those builds per FSR/Nashville press."
+        },
+        {
+          "name": "Avril Zayas",
+          "title": "Director of Interior Design",
+          "company": "Lettuce Entertain You Restaurants (in-house)",
+          "source_url": "https://www.lettuce.com/blog/meet-the-lettuce-interior-design-team/",
+          "source_note": "Selects finishes, lighting, furniture; led Aba Nashville interior design w/ Powell; cited by name in nashvilleinteriors.com Aba feature."
+        },
+        {
+          "name": "John Cinelli",
+          "title": "Director of Architecture",
+          "company": "Lettuce Entertain You Restaurants (in-house)",
+          "source_url": "https://www.linkedin.com/in/john-cinelli-352a0b1b/",
+          "source_note": "LEYE's in-house architecture lead; coordinates with local AOR (Powell in Nashville, Variant Collaborative in Austin)."
+        }
+      ],
+      "typical_suppliers": [
+        {
+          "vendor": "Powell Architecture and Building Studio (Nashville)",
+          "role": "Architect of record + interior collaborator on Aba Nashville (and likely Sushi-san feeder work)",
+          "source_url": "https://www.powellnashville.com/hospitality/aba"
+        },
+        {
+          "vendor": "Remick Architecture (Nashville)",
+          "role": "AOR collaborator on Sushi-san Nashville at Ashwood 12South",
+          "source_url": "https://www.lettuce.com/blog/sushi-san-rolls-into-nashvilles-12-south-neighborhood/"
+        },
+        {
+          "vendor": "Variant Collaborative (Chicago)",
+          "role": "Interior design collaborator on Aba Austin (with LEYE in-house)",
+          "source_url": "https://fesmag.com/topics/project-profiles/facility-design-project-of-the-month/19115-outdoor-dining-powers-up-new-build-under-the-lettuce-entertain-you-umbrella"
+        },
+        {
+          "vendor": "research_gap",
+          "role": "Specific custom-furniture / banquette / hardwood-tabletop fabricator. LEYE's in-house team handles spec + sourcing \u2014 Meghan McLaren is their Sourcing Specialist (per Lettuce blog) and is the right inbound contact for FF&E vendors. Material palette (Venetian plaster, white oak beams, marron cohiba granite at Sushi-san) suggests they spec individually per project rather than rely on a single contract-furniture vendor.",
+          "source_url": "https://nashvilleguru.com/186729/a-look-inside-sushi-san-nashville"
+        }
+      ],
+      "refurb_profile": {
+        "categories": [
+          "banquettes (heavy use \u2014 Aba Nashville has booths + banquettes + bar; 340 covers)",
+          "two- and four-top hardwood tables",
+          "central bar tops",
+          "millwork bar fronts",
+          "custom counters",
+          "stone/granite bar tops (Sushi-san marron cohiba granite)",
+          "white oak beam work / casework"
+        ],
+        "material_preferences": "Aba: warm Mediterranean \u2014 terracotta, plaster, dark hardwoods, brass. Sushi-san: Venetian plaster, white oak beams, marron cohiba granite, pale-green resin patio chairs, concrete patio tables. Ema: lighter Mediterranean. Custom hardwood tabletops would fit Aba + Ema design language squarely.",
+        "source_url": "https://www.powellnashville.com/hospitality/aba"
+      },
+      "expansion_intel": [
+        {
+          "location": "Aba Nashville (Wedgewood-Houston, 435 Houston St)",
+          "status": "Open \u2014 Sep 15, 2025; 10,000-12,000 sf, largest Aba to date",
+          "source_url": "https://www.visitmusiccity.com/media/press-release/2025/aba-renowned-mediterranean-restaurant-set-to-open-wedgewood-houston"
+        },
+        {
+          "location": "Sushi-san Nashville (Ashwood 12South, 2212 12th Ave S)",
+          "status": "Open \u2014 Nov 12, 2025",
+          "source_url": "https://www.lettuce.com/blog/sushi-san-rolls-into-nashvilles-12-south-neighborhood/"
+        },
+        {
+          "location": "Aba Dallas at The Seam (Design District)",
+          "status": "Confirmed late-2026 opening; anchor restaurant in Dunhill Partners' mixed-use development",
+          "source_url": "https://www.lettuce.com/press/aba-to-open-in-dallas-design-district-at-the-seam-in-late-2026/"
+        },
+        {
+          "location": "Crying Tiger (Chicago, 51 W. Hubbard, River North)",
+          "status": "Open \u2014 Oct 14, 2025 (Chef Thai Dang collab)",
+          "source_url": "https://www.lettuce.com/current-press-releases/"
+        },
+        {
+          "location": "Aba WeHo (West Hollywood / LA)",
+          "status": "Announced \u2014 third Mediterranean location pipeline",
+          "source_url": "https://whatnow.com/nashville/restaurants/lettuce-entertain-you-bringing-mediterranean-concept-aba-to-weho/"
+        },
+        {
+          "location": "Ema Austin",
+          "status": "Press points to a Mediterranean/Ema concept Austin pipeline alongside Aba Austin; research_gap on exact opening date",
+          "source_url": "https://www.nashvillepost.com/business/development/food-notes-chicago-restaurant-group-plans-mediterranean-sushi-restaurants/article_52ef9cca-6f49-429a-8a1b-28780b19d2d9.html"
+        }
+      ]
     },
     {
       "id": "life-time",
@@ -265,26 +995,202 @@
       "locations": 175,
       "expansion": "Winter Park FL (Apr 2026), Paradise Valley AZ (H1 2026), Ocotillo AZ (spring 2026). NYC area doubling.",
       "why_fit": "Curveball. Every Life Time has LifeCafe + bar + lounge with real dining. Athletic country club expansion = serious millwork/tabletop spend. Public co, capex flowing.",
-      "kill_risk": "Not a restaurant chain — fitness procurement may be in a different lane.",
+      "kill_risk": "Not a restaurant chain \u2014 fitness procurement may be in a different lane.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Hidden Maggiano's-shape budget inside fitness expansion. Nobody else is calling them."
+      "notes": "Hidden Maggiano's-shape budget inside fitness expansion. Nobody else is calling them.",
+      "prime_contacts": [
+        {
+          "name": "Parham Javaheri",
+          "title": "EVP, President of Club Operations & Chief Property Development Officer",
+          "company": "Life Time Group Holdings (NYSE: LTH)",
+          "source_url": "https://news.lifetime.life/Parham-Javaheri",
+          "source_note": "Has led real estate + development team since 2014; runs ground-up athletic country club prototypes + mixed-use lifestyle centers. The single top decision-maker for new clubs."
+        },
+        {
+          "name": "James O'Reilly",
+          "title": "President, Life Time Work",
+          "company": "Life Time Group Holdings",
+          "source_url": "https://gcuc.co/gcuc-podcast-james-oreilly-of-life-time-work/",
+          "source_note": "Runs the co-working/lounge division embedded in clubs \u2014 relevant because Work Club Lounges are appearing in every new build (Winter Park, Ocotillo). Featured by Orior Furniture (oriorfurniture.com/in-real-life/stories/james-oreilly) \u2014 confirms he engages directly with furniture brands."
+        },
+        {
+          "name": "Rebecca Origer",
+          "title": "Senior Interior Designer",
+          "company": "Life Time (in-house, Chanhassen MN)",
+          "source_url": "https://experiencelife.lifetime.life/article/inside-the-design-of-a-life-time/",
+          "source_note": "In-house spec lead \u2014 selects lighting, finishes, furniture per club; works directly with founder Bahram Akradi on programming."
+        },
+        {
+          "name": "research_gap",
+          "title": "SVP Construction (Mike Kaiman role lookup ambiguous \u2014 a Mike Kaiman shows up in Life Time staff references but the public-confirmable Mike Kaiman is now COO at Holland Construction Services; verify directly with Life Time)",
+          "company": "Life Time",
+          "source_url": "https://theorg.com/org/life-time/org-chart/parham-javaheri",
+          "source_note": "Org chart references SVP Construction reporting to Javaheri; person may have changed \u2014 recommend confirming through Javaheri's office."
+        }
+      ],
+      "typical_suppliers": [
+        {
+          "vendor": "Life Time Construction (in-house developer)",
+          "role": "Wholly-owned property developer \u2014 designs, builds and remodels all Life Time clubs since 1998; rarely outsources GC role for ground-up athletic country clubs",
+          "source_url": "https://www.bldup.com/organizations/life-time-construction"
+        },
+        {
+          "vendor": "Orior Furniture",
+          "role": "Furniture vendor \u2014 featured James O'Reilly (President Life Time Work) in their 'In Real Life' brand story; suggests existing Life Time Work commercial relationship",
+          "source_url": "https://oriorfurniture.com/in-real-life/stories/james-oreilly"
+        },
+        {
+          "vendor": "research_gap",
+          "role": "LifeCafe-specific FF&E supplier \u2014 LifeCafe operates as an in-club caf\u00e9/bar/lounge with food service, retail supplements, and seating; appears procured through the same in-house Property Development team rather than a separate restaurant-FF&E vendor. No publicly disclosed contract-furniture vendor of record. Custom commercial-grade hardwood tabletops + banquettes for LifeCafe + Work Club Lounge are wide-open whitespace.",
+          "source_url": null
+        }
+      ],
+      "refurb_profile": {
+        "categories": [
+          "LifeCafe caf\u00e9/restaurant tables + chairs",
+          "LifeCafe + bar tops + counters",
+          "Work Club Lounge furniture (lounge seating, communal tables, banquettes)",
+          "Kids Academy casework",
+          "Locker-room millwork",
+          "Outdoor 'Beach Club' cabana/pool furniture"
+        ],
+        "material_preferences": "Premium hospitality finishes \u2014 clubs styled as resort/country-club. Winter Park: 173,000 sf, five acres, full-service LifeCafe + bar + outdoor dining + cabanas. Ocotillo: 102,000 sf with LifeCafe + Work Club Lounge. Material palette leans warm-wood + stone, biophilic. Each club's LifeCafe is effectively a 100-200-seat restaurant \u2014 substantial banquette/tabletop volume per ground-up build.",
+        "source_url": "https://www.prnewswire.com/news-releases/life-time-debuts-first-athletic-country-club-in-orlando-market-with-opening-of-life-time-winter-park-on-april-24-302752612.html"
+      },
+      "expansion_intel": [
+        {
+          "location": "Life Time Winter Park, FL",
+          "status": "Opened Apr 24, 2026 \u2014 first Orlando-market club, 173,000 sf",
+          "source_url": "https://news.lifetime.life/2026-04-24-Life-Time-Debuts-First-Athletic-Country-Club-in-Orlando-Market-with-Opening-of-Life-Time-Winter-Park-on-April-24"
+        },
+        {
+          "location": "Life Time Ocotillo (Gilbert, AZ)",
+          "status": "Opened May 4, 2026 \u2014 9th AZ club, 102,000 sf with LifeCafe + Work Club Lounge",
+          "source_url": "https://ir.lifetime.life/news-events/press-releases/detail/1204/life-time-opens-ocotillo-athletic-country-club-in-gilbert-may-4-capping-week-of-major-phoenix-area-expansion"
+        },
+        {
+          "location": "Life Time Paradise Valley (PV Mall redevelopment), AZ",
+          "status": "Broke ground Oct 2025; 92,000 sf club opening H1 2026 + 327 luxury Life Time Living wellness residences completing 2027 \u2014 $2B mixed-use redevelopment",
+          "source_url": "https://www.prnewswire.com/news-releases/327-luxury-life-time-living-wellness-residences-to-be-part-of-pv-development-in-phoenix-arizona-302597273.html"
+        },
+        {
+          "location": "Pipeline (Coming Soon)",
+          "status": "Public 'Coming Soon' page lists multiple unbuilt clubs \u2014 NYC-area doubling continues; investor relations IR filings indicate sustained 10-12 ground-up clubs per year cadence",
+          "source_url": "https://www.lifetime.life/coming-soon-clubs.html"
+        }
+      ]
     },
     {
       "id": "joe-the-juice",
       "name": "Joe & The Juice",
-      "parent": "General Atlantic (PE) — IPO coming",
+      "parent": "General Atlantic (PE) \u2014 IPO coming",
       "category": "New top adds",
       "tier": "B",
       "locations": 350,
       "expansion": "100 new US stores in 18 months announced.",
-      "why_fit": "Each store has signature Scandinavian minimalist millwork — POS counters and bar furniture. Single repeatable kit, high unit count.",
+      "why_fit": "Each store has signature Scandinavian minimalist millwork \u2014 POS counters and bar furniture. Single repeatable kit, high unit count.",
       "kill_risk": "Smaller dollar per store. Existing FF&E partner likely.",
       "status": "cold",
       "contact": "",
       "outreach_draft": "",
-      "notes": "Volume play — 100 stores × $5K = $500K with one customer."
+      "notes": "Volume play \u2014 100 stores \u00d7 $5K = $500K with one customer.",
+      "prime_contacts": [
+        {
+          "name": "Thomas N\u00f8r\u00f8xe",
+          "title": "Chief Executive Officer",
+          "company": "Joe & The Juice (Copenhagen HQ)",
+          "source_url": "https://www.ceotodaymagazine.com/2021/11/meet-thomas-noroxe-the-new-ceo-of-joe-the-juice/",
+          "source_note": "CEO since June 2021; leads global expansion incl. announced US 100-store push and Latin America entry (Mexico City Nov 2025)."
+        },
+        {
+          "name": "Jeffrey Lawrence",
+          "title": "Chairman of the Board",
+          "company": "Joe & The Juice",
+          "source_url": "https://www.businesswire.com/news/home/20250424086704/en/Jeffrey-Lawrence-Appointed-Chairman-of-Joe-the-Juice",
+          "source_note": "Appointed Apr 2025; foodservice/franchising/retail veteran being lined up for the IPO governance. Strategic signal for vendors as US ramps."
+        },
+        {
+          "name": "Kaspar Basse",
+          "title": "Founder (no longer on board \u2014 historical/influence only)",
+          "company": "Joe & The Juice",
+          "source_url": "https://en.wikipedia.org/wiki/Joe_&_The_Juice",
+          "source_note": "Stepped off board after General Atlantic took majority Nov 2023. Listed for context only \u2014 current decisions are at N\u00f8r\u00f8xe + Lawrence + GA level."
+        },
+        {
+          "name": "research_gap",
+          "title": "US Head of Development / VP Real Estate North America",
+          "company": "Joe & The Juice",
+          "source_url": "https://www.connectcre.com/stories/jack-the-juice-coming-to-google-anchored-315-hudson-st/",
+          "source_note": "Most US deals brokered through site-selection consultants + landlord relationships (315 Hudson w/ Google anchor reported by Connect CRE); no publicly named US real-estate lead in press. Worth direct LinkedIn outreach into the Copenhagen development team."
+        }
+      ],
+      "typical_suppliers": [
+        {
+          "vendor": "Riis Retail (Denmark)",
+          "role": "Global fitout + furniture/fixtures supplier of record \u2014 designs, develops and supplies Joe & The Juice stores worldwide; has own manufacturing facility producing furniture and fittings (the in-house industrial seat of the Joe & The Juice signature look)",
+          "source_url": "https://riis-retail.com/cases/joe-the-juice-house-11/"
+        },
+        {
+          "vendor": "MSA architecture + design (Oakland, CA)",
+          "role": "Architect of record for California / West Coast US expansion since 2016; translates the Copenhagen aesthetic to California sites",
+          "source_url": "https://www.msasf.com/hs-joe-and-the-juice"
+        },
+        {
+          "vendor": "CoMa Design Studio (Australia)",
+          "role": "Regional design partner for AU rollout (relevant for understanding their global supplier-firm pattern \u2014 pick a local partner per region)",
+          "source_url": "https://www.coma.com.au/joeandthejuice"
+        },
+        {
+          "vendor": "JRM Construction Management",
+          "role": "US construction manager for select Joe & The Juice US stores",
+          "source_url": "https://www.jrmcm.com/project/joe-the-juice/"
+        },
+        {
+          "vendor": "research_gap",
+          "role": "Whether Riis Retail centrally ships fitout kits from Denmark vs. sourcing locally for US builds is unclear; the 100-stores-in-18-months pace makes US-local fabrication highly likely. Riis has historically been gatekeeper but may sub-contract locally given the volume.",
+          "source_url": null
+        }
+      ],
+      "refurb_profile": {
+        "categories": [
+          "counter/bar tops",
+          "small caf\u00e9 tables (Italian designer pieces \u2014 Eames-style + Nordic mix)",
+          "stools",
+          "millwork wall systems with signature backlit shelving",
+          "banquette/bench seating in some larger 'House' format stores"
+        ],
+        "material_preferences": "Signature Scandinavian: light wood (oak/ash) joinery, white tile, brass, Italian designer chairs (the Rue Verte/Copenhagen aesthetic). 'House' format (House 11) is the larger living-room expression \u2014 more upholstered banquettes, hardwood communal tables. Standard stores ~700-3,300 sf \u2014 counter-led, lower furniture density per site, but volume across 100 new US doors is enormous.",
+        "source_url": "https://www.facebook.com/joeandthejuice/posts/welcome-to-house-11-elevated-in-scandinavian-interior-design-an-extended-functio/1105406841608412/"
+      },
+      "expansion_intel": [
+        {
+          "location": "US: 100 new stores in 18 months",
+          "status": "Publicly announced US expansion target; current US footprint focused on NYC + SF + LA",
+          "source_url": "https://www.hotpotatonewsletter.com/p/from-copenhagen-corner-shop-to-2-4b-ipo-the-joe-the-juice-formula"
+        },
+        {
+          "location": "315 Hudson St, NYC (Google-anchored)",
+          "status": "31st NYC store \u2014 3,274 sf corner space at Hudson & Vandam; opening Q1 2026",
+          "source_url": "https://www.connectcre.com/stories/jack-the-juice-coming-to-google-anchored-315-hudson-st/"
+        },
+        {
+          "location": "Mexico City",
+          "status": "Opened Nov 2025 \u2014 first Latin America store; signals broader Americas expansion alongside US",
+          "source_url": "https://retailtechinnovationhub.com/home/2025/11/27/joe-and-the-juice-expands-and-sets-sights-on-latin-america-as-it-opens-store-in-mexico-city"
+        },
+        {
+          "location": "US IPO (2026)",
+          "status": "General Atlantic exploring US IPO targeting $2.4B valuation; bank selection process underway late 2025 per Bloomberg. IPO proceeds expected to fund accelerated US buildout \u2014 meaning FF&E procurement decisions in next 6-12 months will set vendors for the IPO-era growth wave.",
+          "source_url": "https://www.bloomberg.com/news/articles/2025-07-04/general-atlantic-is-said-to-explore-us-ipo-of-joe-the-juice"
+        },
+        {
+          "location": "Global scale target",
+          "status": "Plan to roughly triple store count to 1,000+ stores leveraging partnerships in MENA + Asia",
+          "source_url": "https://www.ainvest.com/news/joe-juice-pe-backed-growth-story-poised-ipo-glory-2507/"
+        }
+      ]
     }
   ]
 }

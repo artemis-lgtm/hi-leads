@@ -101,6 +101,68 @@
             <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Contact</div>
             <p x-text="lead.contact"></p>
           </div>
+
+          <div x-show="lead.prime_contacts && lead.prime_contacts.length">
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-2">Prime contacts</div>
+            <div class="space-y-2">
+              <template x-for="(c, idx) in lead.prime_contacts" :key="idx">
+                <div class="bg-slate-50 p-3 rounded border border-slate-200">
+                  <div class="font-medium" x-text="c.name"></div>
+                  <div class="text-xs text-slate-600" x-text="c.title + (c.company ? ' \u2022 ' + c.company : '')"></div>
+                  <div class="text-xs text-slate-500 mt-1" x-text="c.source_note"></div>
+                  <a x-show="c.source_url && c.source_url !== 'research_gap'" :href="c.source_url" target="_blank" class="text-xs text-blue-600 hover:underline mt-1 inline-block">source</a>
+                </div>
+              </template>
+            </div>
+          </div>
+
+          <div x-show="lead.typical_suppliers">
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Typical suppliers / procurement channel</div>
+            <template x-if="typeof lead.typical_suppliers === 'string'">
+              <p x-text="lead.typical_suppliers"></p>
+            </template>
+            <template x-if="typeof lead.typical_suppliers === 'object'">
+              <div class="space-y-1">
+                <template x-for="(v, k) in lead.typical_suppliers" :key="k">
+                  <div><span class="text-xs font-medium text-slate-600" x-text="k.replace(/_/g, ' ') + ':'"></span> <span class="text-sm" x-text="Array.isArray(v) ? v.join(' \u2022 ') : v"></span></div>
+                </template>
+              </div>
+            </template>
+          </div>
+
+          <div x-show="lead.refurb_profile">
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Refurbishment profile</div>
+            <template x-if="typeof lead.refurb_profile === 'string'">
+              <p x-text="lead.refurb_profile"></p>
+            </template>
+            <template x-if="typeof lead.refurb_profile === 'object'">
+              <div class="space-y-1">
+                <template x-for="(v, k) in lead.refurb_profile" :key="k">
+                  <div><span class="text-xs font-medium text-slate-600" x-text="k.replace(/_/g, ' ') + ':'"></span> <span class="text-sm" x-text="Array.isArray(v) ? v.join(' \u2022 ') : v"></span></div>
+                </template>
+              </div>
+            </template>
+          </div>
+
+          <div x-show="lead.expansion_intel">
+            <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Expansion intel (in-the-works)</div>
+            <template x-if="typeof lead.expansion_intel === 'string'">
+              <p x-text="lead.expansion_intel"></p>
+            </template>
+            <template x-if="typeof lead.expansion_intel === 'object'">
+              <div class="space-y-1">
+                <template x-for="(v, k) in lead.expansion_intel" :key="k">
+                  <div><span class="text-xs font-medium text-slate-600" x-text="k.replace(/_/g, ' ') + ':'"></span> <span class="text-sm" x-text="Array.isArray(v) ? v.join(' \u2022 ') : v"></span></div>
+                </template>
+              </div>
+            </template>
+          </div>
+
+          <div x-show="lead.research_gap">
+            <div class="text-xs font-medium uppercase tracking-wide text-amber-600 mb-1">Research gap</div>
+            <p class="text-sm text-amber-800" x-text="lead.research_gap"></p>
+          </div>
+
           <div x-show="lead.outreach_draft">
             <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Outreach draft</div>
             <pre class="bg-slate-50 p-3 rounded text-xs whitespace-pre-wrap" x-text="lead.outreach_draft"></pre>
