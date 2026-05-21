@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21 (research added: contacts, suppliers, refurb, expansion)",
+  "updated": "2026-05-21 (contacts triple-checked: 8 departures actioned, 9 titles updated, 3 research_gaps closed)",
   "leads": [
     {
       "id": "north-italia",
@@ -42,7 +42,7 @@
           "title": "Development Administrator, Fox Restaurant Concepts",
           "company": "Fox Restaurant Concepts",
           "source_url": "https://www.zoominfo.com/p/Victoria-Salemme/13089150982",
-          "source_note": "Listed in ZoomInfo as Development Administrator at FRC; useful as administrative gatekeeper under Marji Aron for project coordination."
+          "source_note": "VERIFIED 2026-05-21: Title sourced only from ZoomInfo/RocketReach (aggregator-only, not authoritative). No LinkedIn confirmation. Treat as low confidence; verify directly before outreach."
         }
       ],
       "typical_suppliers": "Procurement is centralized at Fox Restaurant Concepts HQ in Phoenix under SVP Marji Aron (development/design/construction/facilities all roll up to her). Designer-led prototype: Studio Murnane (Phoenix) handles brand, architecture, and interiors for North Italia (per studiomurnane.com/portfolio/north-italia). General contractor relationships historically include Jokake Construction and MCI Builders in Arizona (both have True Food Kitchen \u2014 sister FRC brand \u2014 case studies showing the FRC GC stable). The model is owner-rep / direct: FRC corporate buys FF&E centrally and ships to GC; this is NOT a PE-consolidated platform despite Cheesecake Factory ownership \u2014 FRC operates with autonomy out of Phoenix. Sources: https://studiomurnane.com/portfolio/north-italia ; https://jokake.com/projects/true-food-kitchen/ .",
@@ -74,24 +74,17 @@
         },
         {
           "name": "Mo Jessa",
-          "title": "President, Earls Restaurants",
+          "title": "President Emeritus (retired 2024)",
           "company": "Earls Kitchen + Bar (Fuller Family ownership)",
           "source_url": "https://ca.linkedin.com/in/mo-jessa-9879127",
-          "source_note": "President of the parent \u2014 top operational decision-maker under Fuller family. LinkedIn-verified."
+          "source_note": "VERIFIED 2026-05-21: DEPARTED ACTIVE ROLE \u2014 retired as President in 2024; Mark Hladik succeeded him. Keep for context only; Hladik is the operating president now."
         },
         {
           "name": "Mark Hladik",
-          "title": "President, US Operations (Earls Kitchen + Bar)",
+          "title": "President, Earls Kitchen + Bar",
           "company": "Earls Kitchen + Bar",
           "source_url": "https://www.pembroke.com/news/earls-kitchen-bar-to-open-new-location-at-bostons-commonwealth-pier-in-2027/",
-          "source_note": "Pembroke landlord press release on Boston Seaport quotes Hladik as President of Earls; he is the public-facing executive on US expansion. 23-year Earls veteran, has personally opened multiple US locations."
-        },
-        {
-          "name": "Meghan Hansen",
-          "title": "Chief Financial Officer, Earls Restaurants",
-          "company": "Earls Restaurants Ltd. (Vancouver HQ)",
-          "source_url": "https://craft.co/earls-restaurants-ltd/executives",
-          "source_note": "CFO \u2014 capex sign-off on US buildouts ultimately flows through her office in Vancouver."
+          "source_note": "VERIFIED 2026-05-21: Promoted from Chief Restaurant Officer to President (full brand, not just US Ops) in March 2024 after Mo Jessa's retirement. PRIMARY operating decision-maker."
         }
       ],
       "typical_suppliers": "Family-owned (Fuller family), NOT PE-consolidated \u2014 procurement runs out of Vancouver corporate. Design is in-house under Jennifer Hoffbeck (VP Design); construction was historically VP Construction & Facilities Sumeet Mittal (who has since moved to Academy Sports + Outdoors \u2014 meaning that seat may be open or recently re-filled \u2014 verify before pitching). General contractor on US new builds is project-specific: R.C. Mathews Contractor built the Nashville Yards location (https://rcmathews.com/news/grand-opening-of-earls-kitchen-bar-at-nashville-yards/). Earls' design vocabulary is heavily custom \u2014 Nashville features custom light fixtures, custom seating, and a sweeping wood-arch bar; Miami Dadeland was published in rd+d magazine (https://rddmag.com/design/227-web-exclusive-new-earls-kitchen-bar-rocks-miami-s-dadeland-mall) and Hospitality Design (https://hospitalitydesign.com/projects/f-b/earls-kitchen-bar/). Channel is designer-led-in-house: Hoffbeck specs, then sources via approved vendor list \u2014 meaning Higney International needs to land on her short-list. 300 Main location is also a published case study (https://www.reminetwork.com/articles/300-main-earls-kitchen-bar/).",
@@ -130,10 +123,10 @@
         },
         {
           "name": "Anna Greenberg",
-          "title": "Vice President (Operations / Brand)",
+          "title": "VP / Director of Marketing (title uncertain)",
           "company": "bartaco",
-          "source_url": "https://www.zoominfo.com/p/Anna-Greenberg/3207766282",
-          "source_note": "Long-tenured (13+ years) VP at bartaco, internally grown from bartender. Featured in Restaurant Business Power 20 (https://www.restaurantbusinessonline.com/power-20-2020/anna-greenberg). Operational decision-maker \u2014 relevant for refurb cycle planning."
+          "source_url": "https://www.linkedin.com/in/anna-b-greenberg/",
+          "source_note": "VERIFIED 2026-05-21: Title in flux per public sources: LinkedIn currently shows 'Director of Marketing', ZoomInfo shows 'Vice President'. Verify directly on LinkedIn before outreach. Still at bartaco."
         },
         {
           "name": "Architecture, Incorporated (firm)",
@@ -164,13 +157,6 @@
       "notes": "Counsel said drop. Austin asked to keep \u2014 tier C.",
       "prime_contacts": [
         {
-          "name": "Ryan Slemons",
-          "title": "Chief Development Officer (starting May 4, 2026)",
-          "company": "True Food Kitchen",
-          "source_url": "https://www.theofficialboard.com/news/true-food-kitchen",
-          "source_note": "VERY FRESH: Slemons joins True Food Kitchen as CDO on May 4, 2026 (literally this month). Nearly two decades real estate / franchising / store development; most recently CDO at Unleashed Brands. He is brand-new in seat \u2014 perfect window for Higney to introduce themselves as he's actively building his vendor list."
-        },
-        {
           "name": "John Williams",
           "title": "CEO, True Food Kitchen",
           "company": "True Food Kitchen (Centerbridge + HumanCo + Manna Tree + Oprah)",
@@ -195,7 +181,10 @@
       "typical_suppliers": "True Food Kitchen is PE-backed by Centerbridge Partners (long-time investor, formerly owned P.F. Chang's), HumanCo, and Manna Tree, with celebrity capital from Oprah Winfrey, Howard Schultz, Lion Capital, and Dr. Andrew Weil (https://www.nrn.com/casual-dining/true-food-kitchen-gets-100m-investment-from-humanco-and-manna-tree). The $100M 2022 raise was specifically earmarked for the new smaller-format fast-casual concept AND growth of the flagship. General contractors on True Food buildouts include Jokake Construction (Phoenix, https://jokake.com/projects/true-food-kitchen/) and MCI Builders (https://mcibuildersaz.com/portfolio-item/true-food-kitchen/), both Phoenix-based \u2014 reflects FRC roots (Sam Fox was original co-founder with Dr. Weil). Procurement was historically directed by Director of Design and Development Mike Peralta (per RocketReach, though that role was 'COVID layoff'-noted, so likely vacated). The CDO seat under Ryan Slemons starting May 4, 2026 is now THE point of entry \u2014 he will own real estate + store development including FF&E procurement decisions. Channel is moving toward owner-rep/direct under the new CDO structure.",
       "refurb_profile": "True Food's design language is wellness-bright: light woods, lots of natural fiber (rattan, woven), plants integrated into the space, lighter upholstery palette (cream/sage/terracotta), open kitchens visible from dining. They use real hardwood tabletops in most locations (not laminate) \u2014 fits Higney spec. Banquettes tend to be lower-profile and lighter-upholstered than at Earls. Chairs lean toward bentwood / cane / light-finish wood. The new fast-casual concept (in development) per Christine Barone quotes wants 'guardrails of the brand applied to something more convenient and agile from a development angle' (https://www.restaurantbusinessonline.com/financing/true-food-kitchen-plans-launch-new-fast-casual-brand-help-100m-investment) \u2014 that translates to lower buildout cost, which may push the fast-casual format toward more laminate/composite, but the full-service flagship remains hardwood-spec.",
       "expansion_intel": "True Food Kitchen is at ~46 units (up from 42 at time of $100M raise). The new unnamed fast-casual format was supposed to launch in Phoenix; status as of mid-2026 unclear from public reporting \u2014 worth pressing for. Jacksonville Jax Daily Record confirmed a Midtown location (https://www.jaxdailyrecord.com/news/2018/may/04/true-food-kitchens-healthy-concept/) but that's old. Tampa Midtown opened recently per Fox 13. Specific 2026/2027 leases beyond what's announced were not surfacing \u2014 the Ryan Slemons hire on May 4, 2026 likely signals a development re-acceleration, but the pipeline he's building is not yet public. The Oprah celebrity-backed marketing tailwind plus Centerbridge cash gives them capital but they have been growing slowly post-COVID.",
-      "research_gap": "Could not surface a named current Director of Design or Director of Construction \u2014 Mike Peralta's COVID layoff appears to have left that seat unfilled, and Slemons (CDO) is brand-new (May 4 start). The whole development org under him may not yet be fully staffed, which is an OPPORTUNITY rather than a gap \u2014 Higney can offer to be a known-vendor early as he builds. New fast-casual concept format and timing not confirmed publicly beyond 2024 announcements. Centerbridge's operating partner on the deal also not surfaced."
+      "research_gap": "Could not surface a named current Director of Design or Director of Construction \u2014 Mike Peralta's COVID layoff appears to have left that seat unfilled, and Slemons (CDO) is brand-new (May 4 start). The whole development org under him may not yet be fully staffed, which is an OPPORTUNITY rather than a gap \u2014 Higney can offer to be a known-vendor early as he builds. New fast-casual concept format and timing not confirmed publicly beyond 2024 announcements. Centerbridge's operating partner on the deal also not surfaced.",
+      "research_gap_notes": [
+        "2026-05-21 correction: Ryan Slemons (previously listed here as incoming CDO) joined SWEETGREEN as CDO effective May 4, 2026 \u2014 NOT True Food Kitchen. Aggregator data error. TFK CDO seat status unknown; recommend direct outreach to Jonathan Perez (CAO/GC) to identify development lead."
+      ]
     },
     {
       "id": "lazy-dog",
@@ -295,6 +284,13 @@
           "company": "ARCO/Murray",
           "source_url": "https://www.arcomurray.com/project/hampton-social/",
           "source_note": "ARCO/Murray project page"
+        },
+        {
+          "name": "Walter Fisher",
+          "title": "Director of Development",
+          "company": "Parker Hospitality (Hampton Social)",
+          "source_url": "https://www.linkedin.com/in/walter-fisher-35b15029/",
+          "source_note": "VERIFIED 2026-05-21: Departed Cooper's Hawk (was VP Dev/Construction/Facilities); now Director of Development at Parker Hospitality. Direct FF&E experience from Cooper's Hawk \u2014 relevant FF&E spec authority on Hampton Social / Hampton House new builds."
         }
       ],
       "typical_suppliers": "Designer-led, centralized through Parker corporate (~30 staff). Harrison (weareharrison.com) is lead interior designer/AOR for Hampton Social \u2014 owns the 'Hampton Social 2.0' aesthetic (whitewashed wood, rope, exposed brick, raw steel, woven textiles). ARCO/Murray is GC. Direct procurement, NOT PE-platform consolidated.",
@@ -326,10 +322,10 @@
         },
         {
           "name": "Abhay Bakaya",
-          "title": "SVP, Development (global 1 Hotels, Treehouse, Baccarat)",
+          "title": "Chief Development Officer",
           "company": "SH Hotels & Resorts",
-          "source_url": "https://theorg.com/org/sh-group-operations-llc/org-chart/abhay-bakaya",
-          "source_note": "The Org + SH bio describes him leading global expansion across Americas/EMEA/APAC"
+          "source_url": "https://hotelbusiness.com/abhay-bakaya-appointed-cdo-at-sh-hotels-resorts/",
+          "source_note": "VERIFIED 2026-05-21: Promoted from SVP Development to Chief Development Officer in June 2024. Leads global expansion across Americas/EMEA/APAC."
         },
         {
           "name": "Erik Eveleigh",
@@ -340,10 +336,10 @@
         },
         {
           "name": "Josh Littman",
-          "title": "VP of Development, Europe",
+          "title": "VP of Development, EMEA",
           "company": "SH Hotels & Resorts",
           "source_url": "https://boutiquehotelnews.com/news/movers-and-shakers/sh-hotels-resorts-appoints-vp-of-development/",
-          "source_note": "Boutique Hotel News"
+          "source_note": "VERIFIED 2026-05-21: Region is EMEA (Europe/Middle East/Africa), not just Europe \u2014 minor correction. Still in role."
         },
         {
           "name": "Meyer Davis Studio",
@@ -380,32 +376,18 @@
           "source_note": "Official founder page; NRN CEO profile + Bloomberg"
         },
         {
-          "name": "Walter Fisher",
-          "title": "VP, Development, Construction & Facilities",
-          "company": "Cooper's Hawk",
-          "source_url": "https://www.linkedin.com/in/walter-fisher-35b15029/",
-          "source_note": "PRIMARY decision-maker for FF&E + new-build. LinkedIn + Zippia"
-        },
-        {
-          "name": "Jennifer Durham",
-          "title": "Chief Development Officer",
-          "company": "Cooper's Hawk",
-          "source_url": "https://www.comparably.com/companies/363439/executive-team",
-          "source_note": "Comparably + Zippia"
-        },
-        {
           "name": "Jo-El Quinlan",
           "title": "SVP, Development",
           "company": "Cooper's Hawk",
           "source_url": "https://www.comparably.com/companies/363439/executive-team",
-          "source_note": "Comparably executive team"
+          "source_note": "VERIFIED 2026-05-21: Aggregators still list as SVP Development at Cooper's Hawk but no 2025-2026 press signal. With Walter Fisher (VP Dev) departed to Parker Hospitality and Jennifer Durham (CDO) departed to Potbelly Nov 2025, Quinlan may now be the most senior dev person remaining. Verify directly via LinkedIn before outreach."
         },
         {
           "name": "Jason Plutz",
-          "title": "SVP, Operations",
+          "title": "Chief Restaurant Officer (likely \u2014 verify)",
           "company": "Cooper's Hawk",
           "source_url": "https://www.zippia.com/cooper-s-hawk-winery-and-restaurants-careers-20191/executives/",
-          "source_note": "Influences refurb decisions"
+          "source_note": "VERIFIED 2026-05-21: RocketReach/ContactOut suggest promotion from SVP Operations to Chief Restaurant Officer; no press release confirms. Treat as likely promoted; confirm via LinkedIn before outreach."
         },
         {
           "name": "Dawn Phillipson",
@@ -424,7 +406,10 @@
       ],
       "typical_suppliers": "Architect-led centralized procurement. Aria Group Architects (Oak Park IL) owns the prototype design (Napa-style: wood plank ceilings + beams, stainless accents, transparent wine-bottle display walls, oversized vineyard art, bold light fixtures). Walter Fisher's D&C team executes against Aria spec. Direct/architect-specced, NOT PE-consolidated (Cooper's Hawk independent; Ares Management minority only).",
       "refurb_profile": "Heavy hardwood: wood plank ceilings, exposed beams, large hardwood communal tables, banquettes, tasting bar millwork with wine-bottle display walls, private dining rooms (48-seat PDR per Livonia spec). Typical box: ~246 seats + ~48-seat covered patio + 48-seat PDR. Wine-club retail/tasting requires specialty casegoods. Prototype is REPLICATED across units \u2014 winning the spec = repeating pipeline.",
-      "expansion_intel": "Livonia MI opens March 2 2026 (17115 N Laurel Park Dr \u2014 5th MI). Woodbridge VA opens May 18 2026 (Stonebridge at Potomac Town Center, 14901 Potomac Town Pl \u2014 4th DC). Pleasant Prairie WI opens May 11 2026 (7530 115th Ave). Madison AL opened Feb 9 2026. Avondale AZ opened March 16 2026. Three senior-leadership appointments Jan 2025 framed as supporting 'accelerated growth' \u2014 more in pipeline."
+      "expansion_intel": "Livonia MI opens March 2 2026 (17115 N Laurel Park Dr \u2014 5th MI). Woodbridge VA opens May 18 2026 (Stonebridge at Potomac Town Center, 14901 Potomac Town Pl \u2014 4th DC). Pleasant Prairie WI opens May 11 2026 (7530 115th Ave). Madison AL opened Feb 9 2026. Avondale AZ opened March 16 2026. Three senior-leadership appointments Jan 2025 framed as supporting 'accelerated growth' \u2014 more in pipeline.",
+      "research_gap_notes": [
+        "2026-05-21 verification: Two significant departures \u2014 Walter Fisher (VP Dev) to Parker Hospitality; Jennifer Durham (CDO) to Potbelly Nov 2025. Cooper's Hawk CDO seat appears vacant in public sources. Recommend direct outreach to confirm new dev leadership."
+      ]
     },
     {
       "id": "postino",
@@ -509,7 +494,7 @@
           "title": "VP of Procurement and Standards",
           "company": "Fox Restaurant Concepts",
           "source_url": "https://rocketreach.co/fox-restaurant-concepts-management_b5c71559f42e0d28",
-          "source_note": "DIRECT FF&E procurement decision-maker (title literally says 'Procurement and Standards')"
+          "source_note": "VERIFIED 2026-05-21: LinkedIn/ZoomInfo confirm VP Procurement & Standards but no 2025-2026 signal. Title is direct FF&E buyer \u2014 verify via LinkedIn before outreach."
         },
         {
           "name": "Judith Testani",
@@ -562,10 +547,10 @@
         },
         {
           "name": "Andy Rebhun",
-          "title": "Chief Experience Officer",
+          "title": "Chief Marketing & Experience Officer",
           "company": "CAVA Group",
-          "source_url": "https://www.nrn.com/fast-casual/cava-names-andrew-rebhun-as-chief-experience-officer",
-          "source_note": "Joined 2023 from El Pollo Loco (CMO/VP Digital). Owns guest experience incl. in-restaurant ambiance \u2014 influences design direction alongside Ng."
+          "source_url": "https://investor.cava.com/governance/board-of-directors/person-details/default.aspx?ItemId=8986e9ff-47ca-40dd-a297-0f9ec0157008",
+          "source_note": "VERIFIED 2026-05-21: Title expanded from Chief Experience Officer to Chief Marketing & Experience Officer. Still owns guest experience + ambiance \u2014 design-direction influencer alongside Melissa Ng."
         }
       ],
       "typical_suppliers": "Centralized procurement under Jeff Gaul (CDO) \u2014 'strategic sourcing' explicit in his bio. CORE architecture + design (DC) was OG prototype designer (copper light fixtures, rustic Mediterranean). 'Project Soul' redesign is Ng's in-house program. Horizon Construction Co. as one GC example ($665,610 Jacksonville buildout permit Feb 2026). Pattern: in-house design + GC-per-region.",
@@ -576,7 +561,7 @@
     {
       "id": "sixty-vines",
       "name": "Sixty Vines",
-      "parent": "Independent",
+      "parent": "FB Society (formerly Front Burner Restaurants; rebranded 2024)",
       "category": "New top adds",
       "tier": "A",
       "locations": 20,
@@ -598,9 +583,9 @@
         {
           "name": "Randy DeWitt",
           "title": "Founder / Chairman, Front Burner Restaurants (parent)",
-          "company": "Front Burner Restaurants",
+          "company": "FB Society (formerly Front Burner Restaurants)",
           "source_url": "https://www.fsrmagazine.com/content/sixty-vines-welcomes-jeff-carcara-ceo",
-          "source_note": "Original concept developer. Sixty Vines incubated alongside Whiskey Cake + Mexican Sugar."
+          "source_note": "VERIFIED 2026-05-21: Confirmed Chairman of FB Society (parent rebranded from Front Burner Restaurants). Jack Gibbons is now CEO of FB Society. Sixty Vines incubated alongside Whiskey Cake + Mexican Sugar."
         },
         {
           "name": "Civitarese Morgan Architecture (Irving TX)",
@@ -622,6 +607,20 @@
           "company": "Tractorbeam",
           "source_url": "https://tractorbeam.com/work/sixty-vines/",
           "source_note": "Case study"
+        },
+        {
+          "name": "Jack Gibbons",
+          "title": "CEO, FB Society (parent)",
+          "company": "FB Society",
+          "source_url": "https://www.nrn.com/marketing-branding/front-burner-restaurants-rebrands-itself-as-fb-society-as-jack-gibbons-is-named-ceo",
+          "source_note": "VERIFIED 2026-05-21: Named CEO of FB Society at the rebrand from Front Burner. Sets enterprise direction across Sixty Vines + Whiskey Cake + Mexican Sugar + Twin Peaks (former portfolio)."
+        },
+        {
+          "name": "Christine Magrann",
+          "title": "President & COO, FB Society (parent)",
+          "company": "FB Society",
+          "source_url": "https://www.fsrmagazine.com/people/fb-society-names-christine-magrann-president-coo",
+          "source_note": "VERIFIED 2026-05-21: Named President & COO of FB Society March 31, 2025. Operating chain of command above Jeff Carcara (Sixty Vines CEO)."
         }
       ],
       "typical_suppliers": "Project-by-project AOR/GC selection. Front Burner uses regional architects (Civitarese Morgan TX, Gensler TN). Liles Construction was GC for Nashville (PM Brenden Eaton, Super Brad Long). No centralized FF&E procurement firm identified \u2014 likely direct buyer with consultant design support.",
@@ -645,25 +644,18 @@
       "notes": "Internationalizing \u2014 bigger pipeline coming.",
       "prime_contacts": [
         {
-          "name": "Clay Dover",
-          "title": "CEO",
+          "name": "Chris Schultz",
+          "title": "Chief Executive Officer",
           "company": "Velvet Taco",
-          "source_url": "https://www.qsrmagazine.com/news/velvet-taco-promotes-clay-dover-ceo/",
-          "source_note": "Promoted President \u2192 CEO 2019. Stated ambition for 100+ units, 'hundreds' eventually, plus international (London Nov 2025 first international)."
+          "source_url": "https://www.restaurantdive.com/news/velvet-taco-appoints-ceo-chris-schultz/806898/",
+          "source_note": "VERIFIED 2026-05-21: New CEO \u2014 Clay Dover departed late 2025 to become CEO of Savory Fund (effective Jan 7, 2026). Schultz comes from Voodoo Doughnut (former CEO). Brand-new in seat \u2014 outreach window."
         },
         {
-          "name": "Allyn Taylor",
-          "title": "Chief Development Officer (Feb 2025 NRN appointment) \u2014 VERIFY: RocketReach suggests move to BIBIBOP",
+          "name": "William Davenport",
+          "title": "Chief Financial Officer",
           "company": "Velvet Taco",
-          "source_url": "https://www.nrn.com/fast-casual/velvet-taco-names-allyn-taylor-chief-development-officer",
-          "source_note": "Ex-Zo\u00ebs Kitchen CDO (250+ restaurants), Panera, P.F. Chang's. CALL TO VERIFY before outreach (https://rocketreach.co/allyn-taylor-email_5002324)"
-        },
-        {
-          "name": "Lee Evans",
-          "title": "CFO",
-          "company": "Velvet Taco",
-          "source_url": "https://www.nrn.com/fast-casual/velvet-taco-names-lee-evans-as-first-cfo",
-          "source_note": "First CFO appointment. Signs capex authorizations on FF&E."
+          "source_url": "https://www.restaurantbusinessonline.com/leadership/former-topgolf-exec-joins-velvet-taco-cfo",
+          "source_note": "VERIFIED 2026-05-21: New CFO \u2014 Lee Evans departed to The Parvin Group. Davenport comes from Topgolf. Signs capex authorizations on FF&E."
         },
         {
           "name": "NELSON Worldwide",
@@ -676,7 +668,10 @@
       "typical_suppliers": "Designer-led with NELSON Worldwide as recurring AOR. L Catterton majority owner + Front Burner Restaurants LP minority/operator legacy. New 'Taco Lane' drive-through prototype tested in Grapevine + Rockwall TX before Frisco rollout \u2014 prototype iteration in-house with NELSON.",
       "refurb_profile": "Tabletops, bar tops, communal/high-top tables, chairs, custom millwork, locally-commissioned art integration, drive-thru-adjacent dining for Taco Lane, banquettes for full-service. Industrial-handcrafted: reclaimed/distressed wood, metal, vibrant color, hand-painted murals integrated into millwork.",
       "expansion_intel": "Frisco TX 'Taco Lane' drive-thru prototype announced. Three additional DFW locations announced. Chicago infill \u2014 Dover stated potential 24 units in Chicago metro (currently 3). Live pipeline page: velvettaco.com/coming-soon-locations/. Stated goal: 100 units near-term, hundreds long-term + international.",
-      "research_gap": "Post-Taylor CDO replacement not publicly announced; no separate named VP Construction; no named furniture/casegoods vendor."
+      "research_gap": "Post-Taylor CDO replacement not publicly announced; no separate named VP Construction; no named furniture/casegoods vendor.",
+      "research_gap_notes": [
+        "2026-05-21 verification: Triple turnover at Velvet Taco's C-suite \u2014 new CEO Chris Schultz (replaced Clay Dover Jan 2026), new CFO William Davenport (replaced Lee Evans), CDO seat appears vacant after Allyn Taylor's departure to BIBIBOP. Treat entire contact set as in-flux; lead through new CEO's office."
+      ]
     },
     {
       "id": "auberge",
@@ -698,28 +693,28 @@
           "title": "VP, Design & Construction",
           "company": "Auberge Resorts Collection",
           "source_url": "https://auberge.com/press/auberge-resorts-collection-names-ken-ishiguro-vice-president-design-and-construction/",
-          "source_note": "PRIMARY TARGET for FF&E vendor approval at portfolio level. From Accor Hotels (Executive Director D&TS Luxury Division)."
+          "source_note": "VERIFIED 2026-05-21: Last authoritative confirmation 12/2018 Auberge press release. LinkedIn shows 'Hospitality Design and Construction' without explicit Auberge tag. No 2025-2026 departure signal but no fresh confirmation either. Verify directly before outreach."
         },
         {
           "name": "Grace Esca\u00f1o-Maniatis",
-          "title": "Director of Design",
+          "title": "Senior Director of Design",
           "company": "Auberge Resorts Collection",
-          "source_url": "https://www.linkedin.com/in/graceescano/?_l=en",
-          "source_note": "Leads design execution across Auberge projects. Direct interface with property-level designers."
+          "source_url": "https://hospitalitydesign.com/news/business-people/hd-women-in-design-honorees-2026/",
+          "source_note": "VERIFIED 2026-05-21: Promoted from Director to Senior Director of Design. Named 2026 HD Women in Design honoree."
         },
         {
           "name": "Chelsea Buckland",
-          "title": "VP, Acquisitions & Development",
+          "title": "VP, Development & Residential",
           "company": "Auberge Resorts Collection",
           "source_url": "https://auberge.com/about-us/people/",
-          "source_note": "Owns deal flow / new property additions \u2014 leading indicator of pipeline."
+          "source_note": "VERIFIED 2026-05-21: Scope shifted toward residential strategy \u2014 now VP Development & Residential. Still at Auberge."
         },
         {
           "name": "Richard Arnold",
-          "title": "Chief Development Officer",
+          "title": "President, Global Growth & Business Affairs",
           "company": "Auberge Resorts Collection",
-          "source_url": "https://auberge.com/about-us/people/",
-          "source_note": "Oversees global growth, owner relations, design/construction strategy, residential program."
+          "source_url": "https://theorg.com/org/auberge-resorts-llc/org-chart/richard-arnold",
+          "source_note": "VERIFIED 2026-05-21: Promoted from CDO to President, Global Growth & Business Affairs. Strategic role above the day-to-day dev deal flow. Chelsea Buckland is closer to active deal point with residential focus."
         }
       ],
       "typical_suppliers": "Per-property designer-led. Auberge + ownership group selects different interior design firm per property. Named 2026/2027 pipeline designers: Martin Brudnizki (The Knox Dallas), Woods Bagot (architect Knox), Chad Dorsey (Knox residences), Roman and Williams (Hearst SF + Birdsall Houston), KPF (architect Birdsall), Dillon Kyle (Birdsall residential), Hart Howerton (architect Moncayo PR), Studio Paolo Ferrari (Moncayo interiors), RAMSA (Shore Club Miami architect), Bryan O'Sullivan (Shore Club interiors), Kobi Karp (Shore Club preservation), AvroKO (Shell Bay).",
@@ -802,14 +797,14 @@
           "title": "Vice President, Operations (West Coast + Texas)",
           "company": "Eataly USA",
           "source_url": "https://www.linkedin.com/in/stefanomurialdo/",
-          "source_note": "LinkedIn: leads development/opening of LA, Silicon Valley, Las Vegas, Dallas \u2014 operational owner for new builds in those markets."
+          "source_note": "VERIFIED 2026-05-21: LinkedIn shows two title variants \u2014 'Vice President Operations' (primary) and 'Senior Director of Operations, North America' (secondary). Scope (West Coast + Texas) matches. Treat VP as likely current; verify before outreach."
         },
         {
-          "name": "research_gap",
-          "title": "VP Construction & Design (Chris Delusky successor)",
+          "name": "Dominick Ponti",
+          "title": "Vice President, Design / Construction & Facilities",
           "company": "Eataly USA",
-          "source_url": "https://americanbuildersquarterly.com/2020/chris-delusky-eataly/",
-          "source_note": "Chris Delusky (former VP Construction & Design) has departed Eataly; current successor not surfaced in public press. LeadIQ shows the role exists but lists only initials 'D.P.' \u2014 not enough to verify."
+          "source_url": "https://www.zoominfo.com/p/Dominick-Ponti/1694329967",
+          "source_note": "VERIFIED 2026-05-21: RESOLVED prior research_gap (the 'D.P.' initials at Eataly). Dominick Ponti is the successor to Chris Delusky in the VP Design/Construction & Facilities seat. NYC-based. Direct FF&E spec authority."
         }
       ],
       "typical_suppliers": [
@@ -1023,11 +1018,25 @@
           "source_note": "In-house spec lead \u2014 selects lighting, finishes, furniture per club; works directly with founder Bahram Akradi on programming."
         },
         {
-          "name": "research_gap",
-          "title": "SVP Construction (Mike Kaiman role lookup ambiguous \u2014 a Mike Kaiman shows up in Life Time staff references but the public-confirmable Mike Kaiman is now COO at Holland Construction Services; verify directly with Life Time)",
-          "company": "Life Time",
-          "source_url": "https://theorg.com/org/life-time/org-chart/parham-javaheri",
-          "source_note": "Org chart references SVP Construction reporting to Javaheri; person may have changed \u2014 recommend confirming through Javaheri's office."
+          "name": "Matthew Brinza",
+          "title": "SVP, Architecture & Engineering",
+          "company": "Life Time Group Holdings",
+          "source_url": "https://news.lifetime.life/leadership",
+          "source_note": "VERIFIED 2026-05-21: RESOLVED prior 'SVP Construction' research_gap. Life Time splits construction across multiple SVPs reporting to Javaheri. Brinza owns architecture + engineering \u2014 closest functional match for FF&E spec authority on new builds."
+        },
+        {
+          "name": "John Griffith",
+          "title": "SVP, Real Estate & Development",
+          "company": "Life Time Group Holdings",
+          "source_url": "https://news.lifetime.life/leadership",
+          "source_note": "VERIFIED 2026-05-21: One of two SVPs Real Estate & Development reporting to Javaheri. Site-selection and deal sourcing on new clubs."
+        },
+        {
+          "name": "Aaron Koehler",
+          "title": "SVP, Real Estate & Development",
+          "company": "Life Time Group Holdings",
+          "source_url": "https://news.lifetime.life/leadership",
+          "source_note": "VERIFIED 2026-05-21: Other SVP Real Estate & Development under Javaheri. Pairs with Griffith on dev pipeline."
         }
       ],
       "typical_suppliers": [
@@ -1080,6 +1089,9 @@
           "status": "Public 'Coming Soon' page lists multiple unbuilt clubs \u2014 NYC-area doubling continues; investor relations IR filings indicate sustained 10-12 ground-up clubs per year cadence",
           "source_url": "https://www.lifetime.life/coming-soon-clubs.html"
         }
+      ],
+      "research_gap_notes": [
+        "2026-05-21 verification: Mike Kaiman (prior speculative placeholder) is NOT at Life Time \u2014 confirmed COO at Holland Construction Services. Life Time's construction org is split across Brinza (Arch/Eng), Griffith + Koehler (RE/Dev), and Joe Gallagher (Corporate Concierge & New Club Openings) \u2014 all under Parham Javaheri."
       ]
     },
     {
@@ -1119,11 +1131,18 @@
           "source_note": "Stepped off board after General Atlantic took majority Nov 2023. Listed for context only \u2014 current decisions are at N\u00f8r\u00f8xe + Lawrence + GA level."
         },
         {
-          "name": "research_gap",
-          "title": "US Head of Development / VP Real Estate North America",
+          "name": "Mark Smith",
+          "title": "Head of US Retail Development",
           "company": "Joe & The Juice",
-          "source_url": "https://www.connectcre.com/stories/jack-the-juice-coming-to-google-anchored-315-hudson-st/",
-          "source_note": "Most US deals brokered through site-selection consultants + landlord relationships (315 Hudson w/ Google anchor reported by Connect CRE); no publicly named US real-estate lead in press. Worth direct LinkedIn outreach into the Copenhagen development team."
+          "source_url": "https://theorg.com/org/joe-the-juice-as/org-chart/mark-smith",
+          "source_note": "VERIFIED 2026-05-21: RESOLVED prior research_gap. Head of US Retail Development since 2023; prior VP Real Estate at Pret A Manger. PRIMARY US real-estate contact. Title is 'Head' not 'VP' \u2014 may be elevated for IPO."
+        },
+        {
+          "name": "Henry Costa",
+          "title": "Head of West Coast Real Estate",
+          "company": "Joe & The Juice",
+          "source_url": "https://www.linkedin.com/in/markjsmith212/",
+          "source_note": "VERIFIED 2026-05-21: Supporting US real-estate role; West Coast (LA). Pairs with Mark Smith on US 100-store push."
         }
       ],
       "typical_suppliers": [

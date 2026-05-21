@@ -163,6 +163,15 @@
             <p class="text-sm text-amber-800" x-text="lead.research_gap"></p>
           </div>
 
+          <div x-show="lead.research_gap_notes && lead.research_gap_notes.length">
+            <div class="text-xs font-medium uppercase tracking-wide text-amber-600 mb-1">Verification notes</div>
+            <ul class="text-sm text-amber-800 list-disc pl-5 space-y-1">
+              <template x-for="(n, i) in lead.research_gap_notes" :key="i">
+                <li x-text="n"></li>
+              </template>
+            </ul>
+          </div>
+
           <div x-show="lead.outreach_draft">
             <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Outreach draft</div>
             <pre class="bg-slate-50 p-3 rounded text-xs whitespace-pre-wrap" x-text="lead.outreach_draft"></pre>
