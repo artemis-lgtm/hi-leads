@@ -15,6 +15,7 @@
   .tier-C { background: #fef2f2; color: #b91c1c; border-color: #ef4444; }
   details[open] summary .chev { transform: rotate(90deg); }
   .chev { transition: transform 0.15s ease; display: inline-block; }
+  [x-cloak] { display: none !important; }
 </style>
 </head>
 <body class="bg-slate-50 text-slate-900 min-h-screen">
@@ -25,6 +26,13 @@
     <h1 class="text-3xl font-bold tracking-tight">HI Leads — Maggiano's Framework</h1>
     <p class="text-slate-500 mt-1">Triage list. <span x-text="updated"></span> · <span x-text="filtered.length"></span> of <span x-text="leads.length"></span> shown</p>
   </header>
+
+  <div class="flex gap-1 mb-4 border-b border-slate-200">
+    <button @click="tab='leads'" :class="tab==='leads' ? 'border-blue-600 text-blue-700 font-semibold' : 'border-transparent text-slate-500 hover:text-slate-800'" class="px-4 py-2 border-b-2 text-sm transition-colors">Leads</button>
+    <button @click="tab='strategy'" :class="tab==='strategy' ? 'border-blue-600 text-blue-700 font-semibold' : 'border-transparent text-slate-500 hover:text-slate-800'" class="px-4 py-2 border-b-2 text-sm transition-colors">Strategy</button>
+  </div>
+
+  <div x-show="tab==='leads'">
 
   <div class="bg-white border border-slate-200 rounded-lg p-4 mb-6 flex flex-wrap gap-3 items-center">
     <input x-model="search" placeholder="search name, parent, notes..." class="flex-1 min-w-[200px] px-3 py-2 border border-slate-300 rounded-md text-sm" />
@@ -176,8 +184,126 @@
             <div class="text-xs font-medium uppercase tracking-wide text-slate-500 mb-1">Outreach draft</div>
             <pre class="bg-slate-50 p-3 rounded text-xs whitespace-pre-wrap" x-text="lead.outreach_draft"></pre>
           </div>
+
+          <div x-show="lead.strategy" class="bg-blue-50 border border-blue-200 rounded p-3 mt-2">
+            <div class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Strategy (per-lead)</div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm">
+              <div><span class="text-xs font-medium text-slate-600">Trip:</span> <span x-text="lead.strategy.trip"></span></div>
+              <div><span class="text-xs font-medium text-slate-600">Role:</span> <span x-text="lead.strategy.role"></span></div>
+              <div class="md:col-span-2" x-show="lead.strategy.anchor_meeting"><span class="text-xs font-medium text-slate-600">Anchor meeting:</span> <span x-text="lead.strategy.anchor_meeting"></span></div>
+              <div class="md:col-span-2" x-show="lead.strategy.designer_wedge"><span class="text-xs font-medium text-slate-600">Designer wedge:</span> <span x-text="lead.strategy.designer_wedge"></span></div>
+              <div class="md:col-span-2" x-show="lead.strategy.warm_intro_path"><span class="text-xs font-medium text-slate-600">Path in:</span> <span x-text="lead.strategy.warm_intro_path"></span></div>
+              <div class="md:col-span-2" x-show="lead.strategy.active_build_drop_in"><span class="text-xs font-medium text-slate-600">Active-build drop-in:</span> <span x-text="lead.strategy.active_build_drop_in"></span></div>
+              <div class="md:col-span-2" x-show="lead.strategy.creative_moves && lead.strategy.creative_moves.length">
+                <span class="text-xs font-medium text-slate-600">Creative moves:</span>
+                <div class="flex flex-wrap gap-1 mt-1">
+                  <template x-for="m in lead.strategy.creative_moves" :key="m">
+                    <span class="text-xs px-2 py-0.5 bg-white border border-blue-300 text-blue-800 rounded" x-text="m"></span>
+                  </template>
+                </div>
+              </div>
+              <div class="md:col-span-2 mt-1 pt-2 border-t border-blue-200"><span class="text-xs font-semibold text-slate-700">Next action:</span> <span x-text="lead.strategy.next_action"></span></div>
+              <div class="md:col-span-2" x-show="lead.strategy.kill_unless"><span class="text-xs font-medium text-rose-700">Kill unless:</span> <span class="text-rose-800" x-text="lead.strategy.kill_unless"></span></div>
+            </div>
+          </div>
         </div>
       </details>
+    </template>
+  </div>
+
+  </div><!-- end leads tab -->
+
+  <div x-show="tab==='strategy'" x-cloak>
+    <template x-if="overview">
+    <div class="space-y-6">
+
+      <div class="bg-white border border-slate-200 rounded-lg p-5">
+        <h2 class="text-xl font-bold mb-2">Core thesis</h2>
+        <p class="text-slate-700" x-text="overview.core_thesis"></p>
+        <p class="text-xs text-slate-400 mt-3">— <span x-text="overview.author"></span>, <span x-text="overview.updated"></span></p>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-lg p-5">
+        <h2 class="text-xl font-bold mb-3">Three trips</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-3">
+          <template x-for="t in overview.trips" :key="t.name">
+            <div class="border border-slate-200 rounded p-3">
+              <div class="font-semibold text-blue-700" x-text="t.name"></div>
+              <div class="text-xs text-slate-500 mt-1" x-text="t.days + ' days'"></div>
+              <div class="text-sm mt-2"><span class="text-xs font-medium text-slate-600">Anchor:</span> <span x-text="t.anchor"></span></div>
+              <div class="text-sm mt-1"><span class="text-xs font-medium text-slate-600">Cluster:</span> <span x-text="t.cluster"></span></div>
+              <div class="mt-3">
+                <div class="text-xs font-medium text-slate-600 mb-1">Leads in trip:</div>
+                <div class="flex flex-wrap gap-1">
+                  <template x-for="l in leadsForTrip(t.name)" :key="l.id">
+                    <button @click="tab='leads'; filterStatus=''; search=l.name" class="text-xs px-2 py-0.5 bg-blue-50 border border-blue-200 text-blue-800 rounded hover:bg-blue-100" x-text="l.name"></button>
+                  </template>
+                </div>
+              </div>
+            </div>
+          </template>
+        </div>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-lg p-5">
+        <h2 class="text-xl font-bold mb-3">Designer-first wedge — top 5 firms</h2>
+        <ul class="space-y-2">
+          <template x-for="(d, i) in overview.designer_first_top_5" :key="i">
+            <li class="text-sm"><span class="text-blue-700 font-semibold" x-text="(i+1) + '.'"></span> <span x-text="d"></span></li>
+          </template>
+        </ul>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-lg p-5">
+        <h2 class="text-xl font-bold mb-3">Industry events (annual rhythm)</h2>
+        <ul class="space-y-2">
+          <template x-for="(e, i) in overview.industry_events" :key="i">
+            <li class="text-sm" x-text="'• ' + e"></li>
+          </template>
+        </ul>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-lg p-5">
+        <h2 class="text-xl font-bold mb-3">Creative moves</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+          <template x-for="m in overview.creative_moves" :key="m.name">
+            <div class="border border-slate-200 rounded p-3">
+              <div class="font-semibold text-slate-800" x-text="m.name"></div>
+              <p class="text-sm text-slate-700 mt-1" x-text="m.summary"></p>
+            </div>
+          </template>
+        </div>
+      </div>
+
+      <div class="bg-white border border-slate-200 rounded-lg p-5">
+        <h2 class="text-xl font-bold mb-3">90-day sequence</h2>
+        <ol class="space-y-2">
+          <template x-for="(s, i) in overview.ninety_day_sequence" :key="i">
+            <li class="text-sm" x-text="s"></li>
+          </template>
+        </ol>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div class="bg-white border border-slate-200 rounded-lg p-5">
+          <h2 class="text-lg font-bold mb-2">Cuts (19 → 15)</h2>
+          <ul class="space-y-1">
+            <template x-for="c in overview.cut_from_19_to_15" :key="c">
+              <li class="text-sm text-rose-800" x-text="'• ' + c"></li>
+            </template>
+          </ul>
+        </div>
+        <div class="bg-white border border-slate-200 rounded-lg p-5">
+          <h2 class="text-lg font-bold mb-2">Research backlog</h2>
+          <ul class="space-y-1">
+            <template x-for="r in overview.research_backlog" :key="r">
+              <li class="text-sm text-amber-800" x-text="'• ' + r"></li>
+            </template>
+          </ul>
+        </div>
+      </div>
+
+    </div>
     </template>
   </div>
 
@@ -190,6 +316,8 @@
 function leadApp() {
   return {
     leads: [],
+    overview: null,
+    tab: 'leads',
     updated: '',
     search: '',
     filterTier: '',
@@ -200,7 +328,13 @@ function leadApp() {
       const res = await fetch('leads.json?v=' + Date.now());
       const data = await res.json();
       this.leads = data.leads;
+      this.overview = data.strategy_overview || null;
       this.updated = 'Updated ' + data.updated;
+    },
+    leadsForTrip(tripName) {
+      // Match the lead.strategy.trip to the trip name (e.g. "Trip A — Phoenix" matches strategy.trip === "Phoenix")
+      const key = tripName.split('—').pop().trim();
+      return this.leads.filter(l => l.strategy && l.strategy.trip && l.strategy.trip.startsWith(key));
     },
     get filtered() {
       const tierOrder = { 'A+': 0, 'A': 1, 'B+': 2, 'B': 3, 'C': 4 };
